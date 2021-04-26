@@ -69,7 +69,7 @@ viewBox="0 0 33600 19050"
   </g>
   <text x="25484" y="3674"  class="fil4 fnt4">Nueva Tasación</text>
   <rect id="_P_AGENDA" class="fil0 str0" x="17108" y="2380" width="6873" height="14509"/>
-  <g id="_B_GUARDAR_0">
+  <g id="_B_CITA">
    <rect class="fil1 str1" x="19462" y="13198" width="3858" height="955" rx="20" ry="20"/>
    <text x="20381" y="13852"  class="fil2 fnt0">Agendar</text>
   </g>
@@ -555,17 +555,17 @@ NkjDCIRngzSMQHg2SMMIhGeDNIxAeDZIwwiEZ4M0jEB4Nv8LU80YKBcHi0QAAAAASUVORK5CYII=
   </g>
   <line class="fil0 str2" x1="23691" y1="4546" x2="17397" y2= "4546" />
   <text x="17583" y="4450"  class="fil2 fnt2">Tasación</text>
-  <g id="_B_CITA">
+  <g id="_B_CITA_0">
    <text x="23082" y="3203"  class="fil3 fnt3">volver</text>
    <polyline class="fil0 str3" points="23033,3076 22997,3138 23033,3200 "/>
   </g>
   <text x="18656" y="3674"  class="fil4 fnt4">Agendar Cita</text>
-  <rect id="_P_CITA_1" class="fil0 str0" x="9859" y="2380" width="6873" height="14509"/>
-  <g id="_B_GUARDAR_2">
+  <rect id="_P_SIGUIENTE" class="fil0 str0" x="9859" y="2380" width="6873" height="14509"/>
+  <g id="_B_GUARDAR_1">
    <rect class="fil1 str1" x="12213" y="12495" width="3858" height="955" rx="20" ry="20"/>
    <text x="13187" y="13150"  class="fil2 fnt0">Guardar</text>
   </g>
-  <g id="_B_AGENDA_3">
+  <g id="_B_AGENDA_2">
    <rect class="fil1 str1" x="12213" y="10824" width="3858" height="955" rx="20" ry="20"/>
    <text x="12623" y="11479"  class="fil2 fnt0">Agendar Cita</text>
   </g>
@@ -580,19 +580,19 @@ NkjDCIRngzSMQHg2SMMIhGeDNIxAeDZIwwiEZ4M0jEB4Nv8LU80YKBcHi0QAAAAASUVORK5CYII=
   <text x="10416" y="4975"  class="fil3 fnt1">Juan Pérez</text>
   <line class="fil0 str2" x1="16442" y1="4546" x2="10148" y2= "4546" />
   <text x="10334" y="4450"  class="fil2 fnt2">Interesado</text>
-  <g id="_B_HOME_4">
+  <g id="_B_HOME_3">
    <text x="15833" y="3203"  class="fil3 fnt3">volver</text>
    <polyline class="fil0 str3" points="15784,3076 15748,3138 15784,3200 "/>
   </g>
   <text x="10986" y="3674"  class="fil4 fnt4">Nueva Tasación</text>
   <rect id="_P_HOME" class="fil0 str0" x="2610" y="2380" width="6873" height="14509"/>
-  <g id="_B_CITA_5">
+  <g id="_B_SIGUIENTE">
    <rect class="fil1 str1" x="4964" y="12495" width="3858" height="955" rx="20" ry="20"/>
    <text x="5782" y="13150"  class="fil2 fnt0">Siguiente</text>
   </g>
-  <path class="fil5 str4" d="M6539 11321l1211 0c148,0 270,-122 270,-270l0 -35c0,-149 -122,-270 -270,-270l-1211 0c-149,0 -270,121 -270,270l0 35c0,148 121,270 270,270z"/>
+  <rect class="fil5 str4" x="6269" y="10746" width="1751" height="575" rx="77" ry="270"/>
   <text x="6709" y="11135"  class="fil3 fnt7">Alquiler</text>
-  <path class="fil7 str5" d="M4342 11321l1211 0c148,0 270,-122 270,-270l0 -35c0,-149 -122,-270 -270,-270l-1211 0c-149,0 -270,121 -270,270l0 35c0,148 121,270 270,270z"/>
+  <rect class="fil7 str5" x="4072" y="10746" width="1751" height="575" rx="77" ry="270"/>
   <text x="4620" y="11135"  class="fil8 fnt8">Venta</text>
   <rect class="fil5 str4" x="2974" y="9712" width="6144" height="575"/>
   <text x="3167" y="10095"  class="fil6 fnt9">Ingrese la dirección de la propiedad</text>
