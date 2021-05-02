@@ -128,7 +128,7 @@ viewBox="0 0 44450 25650"
    <polyline class="fil0 str1" points="6618,923 6582,985 6618,1046 "/>
   </g>
   <rect class="fil3" x="111" y="4429" width="206" height="398"/>
-  <g id="_219717946624">
+  <g id="_B_TASACION">
    <path class="fil4 str2" d="M1077 6168l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
    <rect class="fil5" x="1068" y="3493" width="6121" height="317"/>
    <text x="1888" y="3760"  class="fil2 fnt2">C O S T A N E R A   3 3 5 0  -  S A N   B E R N A R D O</text>
@@ -169,82 +169,82 @@ viewBox="0 0 44450 25650"
    <text x="5304" y="4812"  class="fil2 fnt4">m2 totales 240</text>
    <line class="fil0 str3" x1="2810" y1="5650" x2="2810" y2= "4257" />
    <line class="fil0 str3" x1="4965" y1="5650" x2="4965" y2= "4257" />
+   <path class="fil4 str2" d="M1077 9156l6104 0c11,0 20,-9 20,-20l0 -2186 -6144 0 0 2186c0,11 9,20 20,20z"/>
+   <rect class="fil5" x="1068" y="6950" width="6121" height="317"/>
+   <text x="2326" y="7217"  class="fil2 fnt2">E N T R E   R Í O S   630  -  L A   L U C I L A</text>
+   <text x="1251" y="7613"  class="fil2 fnt3">2257 529378</text>
+   <text x="4195" y="7613"  class="fil2 fnt5">Lote</text>
+   <text x="6075" y="7591"  class="fil2 fnt5">Venta</text>
+   <line class="fil0 str3" x1="7201" y1="7714" x2="1057" y2= "7714" />
+   <line class="fil0 str3" x1="4008" y1="7714" x2="4008" y2= "7268" />
+   <path class="fil6 str4" d="M1057 6950l6144 0 0 -423c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 423z"/>
+   <text x="3404" y="6828"  class="fil7 fnt6">Pablo Varela</text>
+   <circle class="fil0 str5" cx="6862" cy="6730" r="152"/>
+   <path class="fil0 str5" d="M6921 6671l-119 119m0 -119l119 119"/>
+   <line class="fil0 str3" x1="7201" y1="8638" x2="1057" y2= "8638" />
+   <line class="fil0 str3" x1="5907" y1="7714" x2="5907" y2= "7268" />
+   <text x="3267" y="8279"  class="fil2 fnt4">Orientación NORTE</text>
+   <g>
+    <g>
+     <text x="1967" y="8984"  class="fil2 fnt7">LUZ</text>
+     <rect class="fil4 str2" x="1582" y="8775" width="250" height="250" rx="4" ry="40"/>
+    </g>
+    <g>
+     <text x="3213" y="8985"  class="fil2 fnt7">GAS</text>
+     <rect class="fil4 str2" x="2827" y="8775" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="4484" y="8985"  class="fil2 fnt7">AGUA</text>
+     <rect class="fil4 str2" x="4099" y="8775" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="5888" y="8985"  class="fil2 fnt7">CLOACAS</text>
+     <rect class="fil4 str2" x="5502" y="8775" width="250" height="250" rx="40" ry="427"/>
+    </g>
+   </g>
+   <line class="fil0 str3" x1="2988" y1="8638" x2="2988" y2= "7714" />
+   <line class="fil0 str3" x1="5390" y1="8638" x2="5390" y2= "7714" />
+   <text x="1241" y="8279"  class="fil2 fnt4">m2 totales 300</text>
+   <path class="fil4 str2" d="M1077 12648l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
+   <rect class="fil5" x="1068" y="9973" width="6121" height="317"/>
+   <text x="2354" y="10240"  class="fil2 fnt2">M E N D O Z A   4 8 6 6  -  L A   L U C I L A</text>
+   <text x="1251" y="10636"  class="fil2 fnt3">11 66415901</text>
+   <text x="4195" y="10636"  class="fil2 fnt5">Local</text>
+   <text x="6075" y="10614"  class="fil2 fnt5">Venta</text>
+   <line class="fil0 str3" x1="7201" y1="10737" x2="1057" y2= "10737" />
+   <line class="fil0 str3" x1="4008" y1="10737" x2="4008" y2= "10290" />
+   <path class="fil6 str4" d="M1057 9973l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
+   <text x="3313" y="9851"  class="fil7 fnt6">Alfonso López</text>
+   <circle class="fil0 str5" cx="6862" cy="9753" r="152"/>
+   <path class="fil0 str5" d="M6921 9693l-119 120m0 -120l119 120"/>
+   <text x="1251" y="11770"  class="fil2 fnt4">Depósito SI</text>
+   <text x="3155" y="11770"  class="fil2 fnt4">m2 depósito</text>
+   <line class="fil0 str3" x1="7201" y1="12130" x2="1057" y2= "12130" />
+   <line class="fil0 str3" x1="5907" y1="10737" x2="5907" y2= "10290" />
+   <text x="3154" y="11292"  class="fil2 fnt4">Baños 1</text>
+   <g>
+    <g>
+     <text x="1967" y="12476"  class="fil2 fnt7">LUZ</text>
+     <rect class="fil4 str2" x="1582" y="12267" width="250" height="250" rx="4" ry="40"/>
+    </g>
+    <g>
+     <text x="3213" y="12477"  class="fil2 fnt7">GAS</text>
+     <rect class="fil4 str2" x="2827" y="12267" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="4484" y="12477"  class="fil2 fnt7">AGUA</text>
+     <rect class="fil4 str2" x="4099" y="12267" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="5888" y="12477"  class="fil2 fnt7">CLOACAS</text>
+     <rect class="fil4 str2" x="5502" y="12267" width="250" height="250" rx="40" ry="427"/>
+    </g>
+   </g>
+   <text x="5304" y="11292"  class="fil2 fnt4">Cocina SI</text>
+   <line class="fil0 str3" x1="2810" y1="12130" x2="2810" y2= "10737" />
+   <line class="fil0 str3" x1="4965" y1="12130" x2="4965" y2= "10737" />
+   <text x="1241" y="11292"  class="fil2 fnt4">m2 totales 45</text>
   </g>
-  <path class="fil4 str2" d="M1077 9156l6104 0c11,0 20,-9 20,-20l0 -2186 -6144 0 0 2186c0,11 9,20 20,20z"/>
-  <rect class="fil5" x="1068" y="6950" width="6121" height="317"/>
-  <text x="2326" y="7217"  class="fil2 fnt2">E N T R E   R Í O S   630  -  L A   L U C I L A</text>
-  <text x="1251" y="7613"  class="fil2 fnt3">2257 529378</text>
-  <text x="4195" y="7613"  class="fil2 fnt5">Lote</text>
-  <text x="6075" y="7591"  class="fil2 fnt5">Venta</text>
-  <line class="fil0 str3" x1="7201" y1="7714" x2="1057" y2= "7714" />
-  <line class="fil0 str3" x1="4008" y1="7714" x2="4008" y2= "7268" />
-  <path class="fil6 str4" d="M1057 6950l6144 0 0 -423c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 423z"/>
-  <text x="3404" y="6828"  class="fil7 fnt6">Pablo Varela</text>
-  <circle class="fil0 str5" cx="6862" cy="6730" r="152"/>
-  <path class="fil0 str5" d="M6921 6671l-119 119m0 -119l119 119"/>
-  <line class="fil0 str3" x1="7201" y1="8638" x2="1057" y2= "8638" />
-  <line class="fil0 str3" x1="5907" y1="7714" x2="5907" y2= "7268" />
-  <text x="3267" y="8279"  class="fil2 fnt4">Orientación NORTE</text>
-  <g id="_219687998112">
-   <g>
-    <text x="1967" y="8984"  class="fil2 fnt7">LUZ</text>
-    <rect class="fil4 str2" x="1582" y="8775" width="250" height="250" rx="4" ry="40"/>
-   </g>
-   <g>
-    <text x="3213" y="8985"  class="fil2 fnt7">GAS</text>
-    <rect class="fil4 str2" x="2827" y="8775" width="250" height="250" rx="40" ry="427"/>
-   </g>
-   <g>
-    <text x="4484" y="8985"  class="fil2 fnt7">AGUA</text>
-    <rect class="fil4 str2" x="4099" y="8775" width="250" height="250" rx="40" ry="427"/>
-   </g>
-   <g>
-    <text x="5888" y="8985"  class="fil2 fnt7">CLOACAS</text>
-    <rect class="fil4 str2" x="5502" y="8775" width="250" height="250" rx="40" ry="427"/>
-   </g>
-  </g>
-  <line class="fil0 str3" x1="2988" y1="8638" x2="2988" y2= "7714" />
-  <line class="fil0 str3" x1="5390" y1="8638" x2="5390" y2= "7714" />
-  <text x="1241" y="8279"  class="fil2 fnt4">m2 totales 300</text>
-  <path class="fil4 str2" d="M1077 12648l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
-  <rect class="fil5" x="1068" y="9973" width="6121" height="317"/>
-  <text x="2354" y="10240"  class="fil2 fnt2">M E N D O Z A   4 8 6 6  -  L A   L U C I L A</text>
-  <text x="1251" y="10636"  class="fil2 fnt3">11 66415901</text>
-  <text x="4195" y="10636"  class="fil2 fnt5">Local</text>
-  <text x="6075" y="10614"  class="fil2 fnt5">Venta</text>
-  <line class="fil0 str3" x1="7201" y1="10737" x2="1057" y2= "10737" />
-  <line class="fil0 str3" x1="4008" y1="10737" x2="4008" y2= "10290" />
-  <path class="fil6 str4" d="M1057 9973l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
-  <text x="3313" y="9851"  class="fil7 fnt6">Alfonso López</text>
-  <circle class="fil0 str5" cx="6862" cy="9753" r="152"/>
-  <path class="fil0 str5" d="M6921 9693l-119 120m0 -120l119 120"/>
-  <text x="1251" y="11770"  class="fil2 fnt4">Depósito SI</text>
-  <text x="3155" y="11770"  class="fil2 fnt4">m2 depósito</text>
-  <line class="fil0 str3" x1="7201" y1="12130" x2="1057" y2= "12130" />
-  <line class="fil0 str3" x1="5907" y1="10737" x2="5907" y2= "10290" />
-  <text x="3154" y="11292"  class="fil2 fnt4">Baños 1</text>
-  <g id="_219713740576">
-   <g>
-    <text x="1967" y="12476"  class="fil2 fnt7">LUZ</text>
-    <rect class="fil4 str2" x="1582" y="12267" width="250" height="250" rx="4" ry="40"/>
-   </g>
-   <g>
-    <text x="3213" y="12477"  class="fil2 fnt7">GAS</text>
-    <rect class="fil4 str2" x="2827" y="12267" width="250" height="250" rx="40" ry="427"/>
-   </g>
-   <g>
-    <text x="4484" y="12477"  class="fil2 fnt7">AGUA</text>
-    <rect class="fil4 str2" x="4099" y="12267" width="250" height="250" rx="40" ry="427"/>
-   </g>
-   <g>
-    <text x="5888" y="12477"  class="fil2 fnt7">CLOACAS</text>
-    <rect class="fil4 str2" x="5502" y="12267" width="250" height="250" rx="40" ry="427"/>
-   </g>
-  </g>
-  <text x="5304" y="11292"  class="fil2 fnt4">Cocina SI</text>
-  <line class="fil0 str3" x1="2810" y1="12130" x2="2810" y2= "10737" />
-  <line class="fil0 str3" x1="4965" y1="12130" x2="4965" y2= "10737" />
-  <text x="1241" y="11292"  class="fil2 fnt4">m2 totales 45</text>
   <rect id="_P_TASACION" class="fil0 str0" x="7954" y="567" width="6873" height="24787"/>
   <g id="_B_HOME_0">
    <text x="13928" y="1050"  class="fil2 fnt1">volver</text>
@@ -312,7 +312,7 @@ viewBox="0 0 44450 25650"
   <rect class="fil4 str2" x="8770" y="22737" width="5241" height="771"/>
   <text x="9422" y="23250"  class="fil8 fnt16">U$S</text>
   <text x="10091" y="23250"  class="fil8 fnt16"> 180.000</text>
-  <g id="_B_GUARDAR">
+  <g id="_B_CONFIRMACION">
    <g>
     <path class="fil5" d="M9890 24734l4627 0c11,0 20,-9 20,-20l0 -915c0,-11 -9,-20 -20,-20l-4627 0c-11,0 -20,9 -20,20l0 915c0,11 9,20 20,20z"/>
     <path id="1" class="fil10" d="M14517 24744l-4627 0 0 -20 4627 0 0 0 0 20zm8 -30l24 0 0 0 0 1 0 2 0 1 0 1 -1 2 0 1 -1 2 0 1 -1 1 0 1 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -1 0 -2 1 -1 1 -2 0 -1 1 -2 0 -2 0 -2 1 -1 0 -2 0 0 -20 0 0 1 0 0 0 0 0 0 0 1 -1 0 0 0 0 1 0 0 0 0 0 1 0 0 -1 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 -1 0 0 0 -1 1 0 0 -1 0 0 0 -1 0 -1 0 0 0 0zm24 -915l0 915 -24 0 0 -915 0 0 24 0zm-32 -10l0 -20 0 0 2 0 1 0 2 0 2 0 2 1 1 0 2 1 1 0 2 1 1 1 2 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 2 0 1 1 1 0 2 1 1 0 1 0 2 0 1 0 2 -24 0 0 -1 0 0 0 -1 0 -1 0 0 -1 -1 0 0 0 -1 0 0 0 -1 -1 0 0 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-4627 -20l4627 0 0 20 -4627 0 0 0 0 -20zm-8 30l-24 0 0 0 0 -2 0 -1 0 -2 0 -1 1 -1 0 -2 0 -1 1 -1 1 -2 0 -1 1 -1 1 -1 1 -1 0 -2 1 -1 1 -1 1 -1 2 -1 1 -1 1 -1 1 0 2 -1 1 -1 2 -1 1 0 2 -1 1 0 2 -1 2 0 1 0 2 0 2 0 0 20 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 1 0 0 -1 0 0 0 0 0 -1 1 0 0 0 0 -1 1 0 0 0 1 0 0 -1 0 0 1 0 0 0 1 -1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0zm-24 915l0 -915 24 0 0 915 0 0 -24 0zm32 10l0 20 0 0 -2 0 -2 0 -1 -1 -2 0 -2 0 -1 -1 -2 0 -1 -1 -2 -1 -1 0 -2 -1 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 0 -1 -1 -1 -1 -1 -1 -2 0 -1 -1 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 0 -1 0 -2 0 -1 24 0 0 0 0 1 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0z"/>
@@ -330,7 +330,7 @@ viewBox="0 0 44450 25650"
   <text x="9656" y="2504"  class="fil1 fnt0">Costanera </text>
   <text x="12807" y="2504"  class="fil1 fnt0">3350</text>
   <text x="8256" y="25060"  class="fil9 fnt1">Podrás finalizar la tasación cuando ingreses el valor sugerido.</text>
-  <rect id="_P_CONSULTA" class="fil0 str0" x="15214" y="567" width="6873" height="12027"/>
+  <rect id="_P_CONFIRMACION" class="fil0 str0" x="15214" y="567" width="6873" height="12027"/>
   <text x="16726" y="6400"  class="fil1 fnt18">La Tasación fue </text>
   <text x="16247" y="7062"  class="fil1 fnt18">realizada con éxito!</text>
   <text x="16730" y="8388"  class="fil1 fnt18">Podrás verla en </text>
@@ -342,8 +342,8 @@ viewBox="0 0 44450 25650"
    </g>
    <text x="15736" y="10610"  class="fil2 fnt19">Volver a Tasaciones en Progreso</text>
   </g>
-  <g id="_B_GUARDAR_1">
-   <a xlink:href="https://gonzalomz.github.io/costoya/?flow=usuario-administrador-tasaciones-realizadas">
+  <g>
+   <a xlink:href="https://gonzalomz.github.io/costoya/?flow=usuario-administrador-tasacion-realizada">
     <g>
      <path class="fil5" d="M15577 11784l6147 0c11,0 20,-9 20,-20l0 -721c0,-11 -9,-20 -20,-20l-6147 0c-11,0 -20,9 -20,20l0 721c0,11 9,20 20,20z"/>
      <path id="1" class="fil10" d="M21724 11794l-6147 0 0 -20 6147 0 0 0 0 20zm8 -30l24 0 0 0 0 1 0 1 0 2 -1 1 0 2 0 1 -1 1 0 2 -1 1 0 1 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -1 1 -1 0 -2 1 -1 1 -2 0 -1 1 -2 0 -2 0 -2 0 -1 1 -2 0 0 -20 0 0 1 0 0 0 0 -1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 -1 1 0 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 -1 1 0 0 0 0 -1 0 0 0 -1 0 -1 1 0 0 -1 0 0 0 -1 0 0 0 0zm24 -721l0 721 -24 0 0 -721 0 0 24 0zm-32 -10l0 -20 0 0 2 0 1 0 2 0 2 0 2 1 1 0 2 1 1 0 2 1 1 1 1 0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 0 1 1 2 0 1 1 1 0 2 0 1 1 1 0 2 0 1 0 2 -24 0 0 -1 0 -1 0 0 0 -1 -1 0 0 -1 0 0 0 -1 0 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 -1 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-6147 -20l6147 0 0 20 -6147 0 0 0 0 -20zm-7 30l-25 0 0 0 0 -2 0 -1 1 -2 0 -1 0 -1 1 -2 0 -1 1 -1 0 -2 1 -1 1 -1 0 -1 1 -2 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 2 -1 1 -1 1 0 2 -1 1 -1 2 0 1 -1 2 0 1 -1 2 0 2 0 2 0 1 0 0 20 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 1 0 0 0 0 -1 0 0 1 0 0 -1 0 0 1 0 0 -1 0 0 1 0 0 0 1 -1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0zm-25 721l0 -721 25 0 0 721 0 0 -25 0zm32 10l0 20 0 0 -1 0 -2 -1 -2 0 -2 0 -1 0 -2 -1 -1 0 -2 -1 -1 -1 -2 0 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 -1 -2 -1 -1 0 -1 -1 -2 0 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 0 -1 25 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0z"/>
