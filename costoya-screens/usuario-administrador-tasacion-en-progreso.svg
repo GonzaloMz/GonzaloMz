@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 44450 25650"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str5 {stroke:#F0F0F0;stroke-width:25}
+    .str6 {stroke:#858384;stroke-width:22.55}
+    .str4 {stroke:#A39EA0;stroke-width:22.55}
+    .str2 {stroke:#D6D6D6;stroke-width:22.55}
+    .str7 {stroke:#333333;stroke-width:20}
+    .str1 {stroke:#858384;stroke-width:20}
+    .str8 {stroke:#333333;stroke-width:15}
+    .str0 {stroke:#C9C7C7;stroke-width:7.52}
+    .str3 {stroke:#C9C7C7;stroke-width:7.62}
+    .fil0 {fill:none}
+    .fil13 {fill:none;fill-rule:nonzero}
+    .fil5 {fill:#F0F0F0}
+    .fil1 {fill:#211E1E}
+    .fil11 {fill:#333333}
+    .fil8 {fill:#858384}
+    .fil2 {fill:#858384}
+    .fil6 {fill:#A39EA0}
+    .fil9 {fill:#C9C7C7}
+    .fil3 {fill:#C9C7C7}
+    .fil4 {fill:white}
+    .fil7 {fill:white}
+    .fil15 {fill:#F0F0F0;fill-rule:nonzero}
+    .fil21 {fill:#211E1E;fill-rule:nonzero}
+    .fil12 {fill:#333333;fill-rule:nonzero}
+    .fil10 {fill:#858384;fill-rule:nonzero}
+    .fil14 {fill:#C9C7C7;fill-rule:nonzero}
+    .fil18 {fill:white;fill-rule:nonzero}
+    .fil19 {fill:#333333;fill-rule:nonzero}
+    .fil20 {fill:#C9C7C7;fill-rule:nonzero}
+    .fil16 {fill:url(#id14);fill-rule:nonzero}
+    .fil17 {fill:url(#id15);fill-rule:nonzero}
+    .fnt7 {font-weight:normal;font-size:211.66px;font-family:'Roboto Cn'}
+    .fnt2 {font-weight:normal;font-size:222.25px;font-family:'Roboto Cn'}
+    .fnt1 {font-weight:normal;font-size:229.31px;font-family:'Roboto'}
+    .fnt13 {font-weight:normal;font-size:238.64px;font-family:'Roboto'}
+    .fnt14 {font-weight:500;font-size:238.64px;font-family:'Roboto Lt'}
+    .fnt4 {font-weight:normal;font-size:246.94px;font-family:'Roboto Cn'}
+    .fnt12 {font-weight:normal;font-size:264.58px;font-family:'Roboto'}
+    .fnt3 {font-weight:normal;font-size:271.64px;font-family:'Roboto'}
+    .fnt5 {font-weight:bold;font-size:271.64px;font-family:'Roboto'}
+    .fnt10 {font-weight:normal;font-size:282.22px;font-family:'Roboto'}
+    .fnt11 {font-weight:normal;font-size:291.66px;font-family:'Roboto Cn'}
+    .fnt6 {font-weight:bold;font-size:291.66px;font-family:'Roboto Cn'}
+    .fnt8 {font-weight:normal;font-size:291.68px;font-family:'Roboto Cn'}
+    .fnt9 {font-weight:bold;font-size:291.68px;font-family:'Roboto Cn'}
+    .fnt15 {font-weight:bold;font-size:317.5px;font-family:'Roboto Cn'}
+    .fnt16 {font-weight:bold;font-size:352.77px;font-family:'Roboto'}
+    .fnt19 {font-weight:500;font-size:388.05px;font-family:'Raleway'}
+    .fnt17 {font-weight:500;font-size:503.79px;font-family:'Raleway'}
+    .fnt18 {font-weight:normal;font-size:564.44px;font-family:'Raleway'}
+    .fnt0 {font-weight:normal;font-size:635px;font-family:'Raleway'}
+   ]]>
+  </style>
+    <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="16461.3" y1="75.409" x2="18222.4" y2="3278.79">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.4" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0.870588" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id1)" x="17453" y="2357" width="962" height="792"/>
+    </mask>
+    <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="21108.9" y1="1697.11" x2="19912.8" y2="3037.2">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id3)" x="19981" y="2489" width="478" height="408"/>
+    </mask>
+    <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="20029.9" y1="2251.13" x2="18344.6" y2="4391.37">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id5)" x="18409" y="3061" width="863" height="1402"/>
+    </mask>
+    <mask id="id6">
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="17822.3" y1="6985.16" x2="18631.7" y2="2229.92">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id7)" x="17770" y="3271" width="1167" height="1191"/>
+    </mask>
+     <mask id="id8">
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="20946" y1="4445.44" x2="19244.6" y2="2646.36">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id9)" x="18583" y="2291" width="1225" height="607"/>
+     </mask>
+     <mask id="id10">
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="18605.4" y1="4698.93" x2="19331" y2="2007.85">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id11)" x="18626" y="2335" width="1101" height="492"/>
+     </mask>
+    <mask id="id12">
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="20770.4" y1="2395.17" x2="20059.4" y2="3138.83">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id13)" x="19904" y="2924" width="582" height="145"/>
+    </mask>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="20029.9" y1="2251.13" x2="18344.6" y2="4391.37">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D6D6D6"/>
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id14" x1="20946" y1="4445.44" x2="19244.6" y2="2646.36">
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="_P_HOME" class="fil0 str0" x="693" y="567" width="6873" height="12340"/>
+  <text x="1332" y="1860"  class="fil1 fnt0">Tasaciones</text>
+  <text x="3397" y="2498"  class="fil1 fnt0">en Progreso</text>
+  <g id="_B_HOME">
+   <text x="6667" y="1050"  class="fil2 fnt1">volver</text>
+   <polyline class="fil0 str1" points="6618,923 6582,985 6618,1046 "/>
+  </g>
+  <rect class="fil3" x="111" y="4429" width="206" height="398"/>
+  <g id="_219717946624">
+   <path class="fil4 str2" d="M1077 6168l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
+   <rect class="fil5" x="1068" y="3493" width="6121" height="317"/>
+   <text x="1888" y="3760"  class="fil2 fnt2">C O S T A N E R A   3 3 5 0  -  S A N   B E R N A R D O</text>
+   <text x="1251" y="4156"  class="fil2 fnt3">2257 681653</text>
+   <text x="1251" y="4812"  class="fil2 fnt4">Ambientes 3</text>
+   <text x="4195" y="4156"  class="fil2 fnt5">Casa</text>
+   <text x="6075" y="4134"  class="fil2 fnt5">Venta</text>
+   <line class="fil0 str3" x1="7201" y1="4257" x2="1057" y2= "4257" />
+   <line class="fil0 str3" x1="4008" y1="4257" x2="4008" y2= "3810" />
+   <path class="fil6 str4" d="M1057 3493l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
+   <text x="3494" y="3371"  class="fil7 fnt6">Juan Pérez</text>
+   <circle class="fil0 str5" cx="6862" cy="3273" r="152"/>
+   <path class="fil0 str5" d="M6921 3213l-119 120m0 -120l119 120"/>
+   <text x="1251" y="5290"  class="fil2 fnt4">Baños 2</text>
+   <text x="3155" y="5290"  class="fil2 fnt4">Lavadero NO</text>
+   <line class="fil0 str3" x1="7201" y1="5650" x2="1057" y2= "5650" />
+   <line class="fil0 str3" x1="5907" y1="4257" x2="5907" y2= "3810" />
+   <text x="3154" y="4812"  class="fil2 fnt4">Garage 1</text>
+   <g>
+    <g>
+     <text x="1967" y="5996"  class="fil2 fnt7">LUZ</text>
+     <rect class="fil4 str2" x="1582" y="5787" width="250" height="250" rx="4" ry="40"/>
+    </g>
+    <g>
+     <text x="3213" y="5997"  class="fil2 fnt7">GAS</text>
+     <rect class="fil4 str2" x="2827" y="5787" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="4484" y="5997"  class="fil2 fnt7">AGUA</text>
+     <rect class="fil4 str2" x="4099" y="5787" width="250" height="250" rx="40" ry="427"/>
+    </g>
+    <g>
+     <text x="5888" y="5997"  class="fil2 fnt7">CLOACAS</text>
+     <rect class="fil4 str2" x="5502" y="5787" width="250" height="250" rx="40" ry="427"/>
+    </g>
+   </g>
+   <text x="5306" y="5290"  class="fil2 fnt4">m2 cubiertos   -</text>
+   <text x="5304" y="4812"  class="fil2 fnt4">m2 totales 240</text>
+   <line class="fil0 str3" x1="2810" y1="5650" x2="2810" y2= "4257" />
+   <line class="fil0 str3" x1="4965" y1="5650" x2="4965" y2= "4257" />
+  </g>
+  <path class="fil4 str2" d="M1077 9156l6104 0c11,0 20,-9 20,-20l0 -2186 -6144 0 0 2186c0,11 9,20 20,20z"/>
+  <rect class="fil5" x="1068" y="6950" width="6121" height="317"/>
+  <text x="2326" y="7217"  class="fil2 fnt2">E N T R E   R Í O S   630  -  L A   L U C I L A</text>
+  <text x="1251" y="7613"  class="fil2 fnt3">2257 529378</text>
+  <text x="4195" y="7613"  class="fil2 fnt5">Lote</text>
+  <text x="6075" y="7591"  class="fil2 fnt5">Venta</text>
+  <line class="fil0 str3" x1="7201" y1="7714" x2="1057" y2= "7714" />
+  <line class="fil0 str3" x1="4008" y1="7714" x2="4008" y2= "7268" />
+  <path class="fil6 str4" d="M1057 6950l6144 0 0 -423c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 423z"/>
+  <text x="3404" y="6828"  class="fil7 fnt6">Pablo Varela</text>
+  <circle class="fil0 str5" cx="6862" cy="6730" r="152"/>
+  <path class="fil0 str5" d="M6921 6671l-119 119m0 -119l119 119"/>
+  <line class="fil0 str3" x1="7201" y1="8638" x2="1057" y2= "8638" />
+  <line class="fil0 str3" x1="5907" y1="7714" x2="5907" y2= "7268" />
+  <text x="3267" y="8279"  class="fil2 fnt4">Orientación NORTE</text>
+  <g id="_219687998112">
+   <g>
+    <text x="1967" y="8984"  class="fil2 fnt7">LUZ</text>
+    <rect class="fil4 str2" x="1582" y="8775" width="250" height="250" rx="4" ry="40"/>
+   </g>
+   <g>
+    <text x="3213" y="8985"  class="fil2 fnt7">GAS</text>
+    <rect class="fil4 str2" x="2827" y="8775" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="4484" y="8985"  class="fil2 fnt7">AGUA</text>
+    <rect class="fil4 str2" x="4099" y="8775" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="5888" y="8985"  class="fil2 fnt7">CLOACAS</text>
+    <rect class="fil4 str2" x="5502" y="8775" width="250" height="250" rx="40" ry="427"/>
+   </g>
+  </g>
+  <line class="fil0 str3" x1="2988" y1="8638" x2="2988" y2= "7714" />
+  <line class="fil0 str3" x1="5390" y1="8638" x2="5390" y2= "7714" />
+  <text x="1241" y="8279"  class="fil2 fnt4">m2 totales 300</text>
+  <path class="fil4 str2" d="M1077 12648l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
+  <rect class="fil5" x="1068" y="9973" width="6121" height="317"/>
+  <text x="2354" y="10240"  class="fil2 fnt2">M E N D O Z A   4 8 6 6  -  L A   L U C I L A</text>
+  <text x="1251" y="10636"  class="fil2 fnt3">11 66415901</text>
+  <text x="4195" y="10636"  class="fil2 fnt5">Local</text>
+  <text x="6075" y="10614"  class="fil2 fnt5">Venta</text>
+  <line class="fil0 str3" x1="7201" y1="10737" x2="1057" y2= "10737" />
+  <line class="fil0 str3" x1="4008" y1="10737" x2="4008" y2= "10290" />
+  <path class="fil6 str4" d="M1057 9973l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
+  <text x="3313" y="9851"  class="fil7 fnt6">Alfonso López</text>
+  <circle class="fil0 str5" cx="6862" cy="9753" r="152"/>
+  <path class="fil0 str5" d="M6921 9693l-119 120m0 -120l119 120"/>
+  <text x="1251" y="11770"  class="fil2 fnt4">Depósito SI</text>
+  <text x="3155" y="11770"  class="fil2 fnt4">m2 depósito</text>
+  <line class="fil0 str3" x1="7201" y1="12130" x2="1057" y2= "12130" />
+  <line class="fil0 str3" x1="5907" y1="10737" x2="5907" y2= "10290" />
+  <text x="3154" y="11292"  class="fil2 fnt4">Baños 1</text>
+  <g id="_219713740576">
+   <g>
+    <text x="1967" y="12476"  class="fil2 fnt7">LUZ</text>
+    <rect class="fil4 str2" x="1582" y="12267" width="250" height="250" rx="4" ry="40"/>
+   </g>
+   <g>
+    <text x="3213" y="12477"  class="fil2 fnt7">GAS</text>
+    <rect class="fil4 str2" x="2827" y="12267" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="4484" y="12477"  class="fil2 fnt7">AGUA</text>
+    <rect class="fil4 str2" x="4099" y="12267" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="5888" y="12477"  class="fil2 fnt7">CLOACAS</text>
+    <rect class="fil4 str2" x="5502" y="12267" width="250" height="250" rx="40" ry="427"/>
+   </g>
+  </g>
+  <text x="5304" y="11292"  class="fil2 fnt4">Cocina SI</text>
+  <line class="fil0 str3" x1="2810" y1="12130" x2="2810" y2= "10737" />
+  <line class="fil0 str3" x1="4965" y1="12130" x2="4965" y2= "10737" />
+  <text x="1241" y="11292"  class="fil2 fnt4">m2 totales 45</text>
+  <rect id="_P_TASACION" class="fil0 str0" x="7954" y="567" width="6873" height="24787"/>
+  <g id="_B_HOME_0">
+   <text x="13928" y="1050"  class="fil2 fnt1">volver</text>
+   <polyline class="fil0 str1" points="13879,923 13843,985 13879,1046 "/>
+  </g>
+  <text x="8307" y="1860"  class="fil1 fnt0">Tasación </text>
+  <rect class="fil4 str2" x="11613" y="10683" width="1751" height="575" rx="77" ry="270"/>
+  <text x="12054" y="11073"  class="fil2 fnt8">Alquiler</text>
+  <rect class="fil3 str6" x="9416" y="10683" width="1751" height="575" rx="77" ry="270"/>
+  <text x="9964" y="11073"  class="fil7 fnt9">Venta</text>
+  <rect class="fil4 str2" x="8318" y="9690" width="6144" height="575"/>
+  <text x="8509" y="9588"  class="fil8 fnt10">Dirección</text>
+  <rect class="fil4 str2" x="8318" y="8621" width="6144" height="575"/>
+  <rect class="fil4 str2" x="14031" y="8621" width="431" height="575"/>
+  <polygon class="fil9" points="14112,8818 14381,8818 14246,8998 "/>
+  <text x="8509" y="8519"  class="fil8 fnt10">Tipo de Propiedad</text>
+  <line class="fil0 str3" x1="14537" y1="7975" x2="8243" y2= "7975" />
+  <text x="8429" y="7879"  class="fil8 fnt11">Propiedad</text>
+  <rect class="fil4 str2" x="8318" y="5169" width="6144" height="575"/>
+  <text x="8509" y="5068"  class="fil8 fnt10">Teléfono</text>
+  <rect class="fil4 str2" x="8318" y="4100" width="6144" height="575"/>
+  <text x="8509" y="3999"  class="fil8 fnt10">Nombre y Apellido</text>
+  <line class="fil0 str3" x1="14537" y1="3455" x2="8243" y2= "3455" />
+  <text x="8429" y="3359"  class="fil8 fnt11">Interesado</text>
+  <text x="8511" y="4484"  class="fil2 fnt12">Juan Pérez</text>
+  <text x="8511" y="5552"  class="fil2 fnt12">2257 681653</text>
+  <text x="8495" y="9004"  class="fil2 fnt12">Casa</text>
+  <text x="8516" y="10081"  class="fil2 fnt12">Costanera 3350</text>
+  <rect class="fil4 str2" x="8318" y="6238" width="6144" height="575"/>
+  <text x="8509" y="6137"  class="fil8 fnt10">Email</text>
+  <text x="8505" y="6621"  class="fil9 fnt13">Ingrese el email del interesado</text>
+  <rect class="fil4 str2" x="8318" y="13070" width="2849" height="575"/>
+  <text x="8509" y="12968"  class="fil8 fnt10">m2 totales</text>
+  <rect class="fil4 str2" x="8318" y="12001" width="2849" height="575"/>
+  <rect class="fil4 str2" x="10736" y="12001" width="431" height="575"/>
+  <polygon class="fil9" points="10817,12199 11086,12199 10951,12379 "/>
+  <text x="8509" y="11899"  class="fil8 fnt10">Ambientes</text>
+  <text x="8495" y="12385"  class="fil2 fnt12">3</text>
+  <rect class="fil4 str2" x="11613" y="12001" width="2849" height="575"/>
+  <rect class="fil4 str2" x="14031" y="12001" width="431" height="575"/>
+  <polygon class="fil9" points="14112,12199 14381,12199 14246,12379 "/>
+  <text x="11804" y="11899"  class="fil8 fnt10">Baños</text>
+  <text x="11790" y="12385"  class="fil2 fnt12">2</text>
+  <rect class="fil4 str2" x="11613" y="13070" width="2849" height="575"/>
+  <text x="11804" y="12968"  class="fil8 fnt10">m2 cubiertos</text>
+  <text x="8516" y="13461"  class="fil2 fnt12">240</text>
+  <text x="11802" y="13461"  class="fil9 fnt13">Ingrese los m2</text>
+  <rect class="fil4 str2" x="8318" y="14139" width="2849" height="575"/>
+  <text x="8509" y="14037"  class="fil8 fnt10">Garage</text>
+  <text x="8516" y="14530"  class="fil2 fnt12">1</text>
+  <rect class="fil4 str2" x="10736" y="14139" width="431" height="575"/>
+  <polygon class="fil9" points="10817,14337 11086,14337 10951,14517 "/>
+  <text x="11804" y="14037"  class="fil8 fnt10">Lavadero</text>
+  <rect class="fil4 str2" x="13097" y="14139" width="1264" height="575" rx="56" ry="270"/>
+  <rect class="fil3 str6" x="11714" y="14139" width="1264" height="575" rx="56" ry="270"/>
+  <text x="12177" y="14530"  class="fil7 fnt14">NO</text>
+  <text x="13627" y="14530"  class="fil3 fnt14">SI</text>
+  <line class="fil0 str3" x1="14537" y1="15848" x2="8243" y2= "15848" />
+  <text x="8429" y="15752"  class="fil8 fnt11">Servicios</text>
+  <rect class="fil4 str2" x="8318" y="18646" width="6144" height="2508"/>
+  <line class="fil0 str3" x1="14537" y1="18196" x2="8243" y2= "18196" />
+  <text x="8429" y="18100"  class="fil8 fnt8">Notas</text>
+  <line class="fil0 str3" x1="14537" y1="22288" x2="8243" y2= "22288" />
+  <text x="8429" y="22192"  class="fil8 fnt15">Valor Sugerido</text>
+  <rect class="fil4 str2" x="8770" y="22737" width="5241" height="771"/>
+  <text x="9422" y="23250"  class="fil8 fnt16">U$S</text>
+  <text x="10091" y="23250"  class="fil8 fnt16"> 180.000</text>
+  <g id="_B_GUARDAR">
+   <g>
+    <path class="fil5" d="M9890 24734l4627 0c11,0 20,-9 20,-20l0 -915c0,-11 -9,-20 -20,-20l-4627 0c-11,0 -20,9 -20,20l0 915c0,11 9,20 20,20z"/>
+    <path id="1" class="fil10" d="M14517 24744l-4627 0 0 -20 4627 0 0 0 0 20zm8 -30l24 0 0 0 0 1 0 2 0 1 0 1 -1 2 0 1 -1 2 0 1 -1 1 0 1 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -1 0 -2 1 -1 1 -2 0 -1 1 -2 0 -2 0 -2 1 -1 0 -2 0 0 -20 0 0 1 0 0 0 0 0 0 0 1 -1 0 0 0 0 1 0 0 0 0 0 1 0 0 -1 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 -1 0 0 0 -1 1 0 0 -1 0 0 0 -1 0 -1 0 0 0 0zm24 -915l0 915 -24 0 0 -915 0 0 24 0zm-32 -10l0 -20 0 0 2 0 1 0 2 0 2 0 2 1 1 0 2 1 1 0 2 1 1 1 2 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 2 0 1 1 1 0 2 1 1 0 1 0 2 0 1 0 2 -24 0 0 -1 0 0 0 -1 0 -1 0 0 -1 -1 0 0 0 -1 0 0 0 -1 -1 0 0 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-4627 -20l4627 0 0 20 -4627 0 0 0 0 -20zm-8 30l-24 0 0 0 0 -2 0 -1 0 -2 0 -1 1 -1 0 -2 0 -1 1 -1 1 -2 0 -1 1 -1 1 -1 1 -1 0 -2 1 -1 1 -1 1 -1 2 -1 1 -1 1 -1 1 0 2 -1 1 -1 2 -1 1 0 2 -1 1 0 2 -1 2 0 1 0 2 0 2 0 0 20 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 1 0 0 -1 0 0 0 0 0 -1 1 0 0 0 0 -1 1 0 0 0 1 0 0 -1 0 0 1 0 0 0 1 -1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0zm-24 915l0 -915 24 0 0 915 0 0 -24 0zm32 10l0 20 0 0 -2 0 -2 0 -1 -1 -2 0 -2 0 -1 -1 -2 0 -1 -1 -2 -1 -1 0 -2 -1 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 0 -1 -1 -1 -1 -1 -1 -2 0 -1 -1 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 0 -1 0 -2 0 -1 24 0 0 0 0 1 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0z"/>
+   </g>
+   <text x="10141" y="24433"  class="fil2 fnt17">Finalizar Tasación</text>
+  </g>
+  <text x="9010" y="16963"  class="fil8 fnt10">Luz</text>
+  <rect class="fil4 str2" x="8438" y="16624" width="439" height="438" rx="4" ry="40"/>
+  <text x="10376" y="16963"  class="fil8 fnt10">Gas</text>
+  <rect class="fil4 str2" x="9804" y="16624" width="439" height="438" rx="4" ry="40"/>
+  <text x="11742" y="16963"  class="fil8 fnt10">Agua</text>
+  <rect class="fil4 str2" x="11169" y="16624" width="439" height="438" rx="4" ry="40"/>
+  <text x="13308" y="16963"  class="fil8 fnt10">Cloacas</text>
+  <rect class="fil4 str2" x="12735" y="16624" width="439" height="438" rx="4" ry="40"/>
+  <text x="9656" y="2504"  class="fil1 fnt0">Costanera </text>
+  <text x="12807" y="2504"  class="fil1 fnt0">3350</text>
+  <text x="8256" y="25060"  class="fil9 fnt1">Podrás finalizar la tasación cuando ingreses el valor sugerido.</text>
+  <rect id="_P_CONSULTA" class="fil0 str0" x="15214" y="567" width="6873" height="12027"/>
+  <text x="16726" y="6400"  class="fil1 fnt18">La Tasación fue </text>
+  <text x="16247" y="7062"  class="fil1 fnt18">realizada con éxito!</text>
+  <text x="16730" y="8388"  class="fil1 fnt18">Podrás verla en </text>
+  <text x="15782" y="9050"  class="fil1 fnt18">Tasaciones Realizadas.</text>
+  <g id="_B_HOME2">
+   <g>
+    <path class="fil5" d="M15577 10813l6147 0c11,0 20,-9 20,-20l0 -721c0,-11 -9,-20 -20,-20l-6147 0c-11,0 -20,9 -20,20l0 721c0,11 9,20 20,20z"/>
+    <path id="1" class="fil10" d="M21724 10824l-6147 0 0 -21 6147 0 0 0 0 21zm8 -31l24 0 0 0 0 2 0 1 0 2 -1 1 0 2 0 1 -1 1 0 2 -1 1 0 1 -1 1 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -1 0 -1 1 -2 1 -1 0 -2 1 -1 0 -2 1 -2 0 -2 0 -1 0 -2 1 0 -21 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 -1 0 0 1 0 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 -1 1 0 0 -1 0 0 0 -1 0 0 0 -1 1 0 0 -1 0 0 0 -1 0 -1 0 0zm24 -721l0 721 -24 0 0 -721 0 0 24 0zm-32 -9l0 -21 0 0 2 0 1 1 2 0 2 0 2 1 1 0 2 1 1 0 2 1 1 1 1 0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 0 1 1 1 0 2 1 1 0 1 0 2 1 1 0 2 0 1 0 1 -24 0 0 0 0 -1 0 0 0 -1 -1 0 0 -1 0 0 0 -1 0 0 0 -1 -1 0 0 -1 0 0 -1 -1 0 0 0 0 -1 -1 0 0 0 0 -1 0 0 -1 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-6147 -21l6147 0 0 21 -6147 0 0 0 0 -21zm-7 30l-25 0 0 0 0 -1 0 -1 1 -2 0 -1 0 -2 1 -1 0 -1 1 -2 0 -1 1 -1 1 -1 0 -2 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 2 -1 1 -1 1 0 2 -1 1 -1 2 0 1 -1 2 0 1 -1 2 0 2 0 2 -1 1 0 0 21 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 1 0 0 -1 0 0 1 0 0 -1 0 0 0 0 1 -1 0 0 1 0 0 0 1 -1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0zm-25 721l0 -721 25 0 0 721 0 0 -25 0zm32 10l0 21 0 0 -1 -1 -2 0 -2 0 -2 0 -1 -1 -2 0 -1 -1 -2 0 -1 -1 -2 -1 -1 0 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -2 -1 -1 -1 -1 0 -1 -1 -2 0 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 0 -2 25 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0z"/>
+   </g>
+   <text x="15736" y="10610"  class="fil2 fnt19">Volver a Tasaciones en Progreso</text>
+  </g>
+  <g id="_B_GUARDAR_1">
+   <a xlink:href="https://gonzalomz.github.io/costoya/?flow=usuario-administrador-tasaciones-realizadas">
+    <g>
+     <path class="fil5" d="M15577 11784l6147 0c11,0 20,-9 20,-20l0 -721c0,-11 -9,-20 -20,-20l-6147 0c-11,0 -20,9 -20,20l0 721c0,11 9,20 20,20z"/>
+     <path id="1" class="fil10" d="M21724 11794l-6147 0 0 -20 6147 0 0 0 0 20zm8 -30l24 0 0 0 0 1 0 1 0 2 -1 1 0 2 0 1 -1 1 0 2 -1 1 0 1 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -1 1 -1 0 -2 1 -1 1 -2 0 -1 1 -2 0 -2 0 -2 0 -1 1 -2 0 0 -20 0 0 1 0 0 0 0 -1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 -1 1 0 0 0 0 0 1 -1 0 0 0 0 1 -1 0 0 0 -1 1 0 0 0 0 -1 0 0 0 -1 0 -1 1 0 0 -1 0 0 0 -1 0 0 0 0zm24 -721l0 721 -24 0 0 -721 0 0 24 0zm-32 -10l0 -20 0 0 2 0 1 0 2 0 2 0 2 1 1 0 2 1 1 0 2 1 1 1 1 0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 0 1 1 2 0 1 1 1 0 2 0 1 1 1 0 2 0 1 0 2 -24 0 0 -1 0 -1 0 0 0 -1 -1 0 0 -1 0 0 0 -1 0 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 -1 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-6147 -20l6147 0 0 20 -6147 0 0 0 0 -20zm-7 30l-25 0 0 0 0 -2 0 -1 1 -2 0 -1 0 -1 1 -2 0 -1 1 -1 0 -2 1 -1 1 -1 0 -1 1 -2 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 2 -1 1 -1 1 0 2 -1 1 -1 2 0 1 -1 2 0 1 -1 2 0 2 0 2 0 1 0 0 20 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 1 0 0 0 0 -1 0 0 1 0 0 -1 0 0 1 0 0 -1 0 0 1 0 0 0 1 -1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0zm-25 721l0 -721 25 0 0 721 0 0 -25 0zm32 10l0 20 0 0 -1 0 -2 -1 -2 0 -2 0 -1 0 -2 -1 -1 0 -2 -1 -1 -1 -2 0 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 -1 -2 -1 -1 0 -1 -1 -2 0 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 0 -1 25 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0z"/>
+    </g>
+    <text x="16297" y="11580"  class="fil2 fnt19">Ir a Tasaciones Realizadas</text>
+   </a>
+  </g>
+  <rect id="_P_HOME2" class="fil0 str0" x="22487" y="567" width="6873" height="9066"/>
+  <text x="23126" y="1860"  class="fil1 fnt0">Tasaciones</text>
+  <text x="25191" y="2498"  class="fil1 fnt0">en Progreso</text>
+  <g id="_B_SUPERHOME">
+   <text x="28461" y="1050"  class="fil2 fnt1">volver</text>
+   <polyline class="fil0 str1" points="28412,923 28376,985 28412,1046 "/>
+  </g>
+  <path class="fil4 str2" d="M22871 5699l6104 0c11,0 20,-9 20,-20l0 -2186 -6144 0 0 2186c0,11 9,20 20,20z"/>
+  <rect class="fil5" x="22863" y="3493" width="6121" height="317"/>
+  <text x="24120" y="3760"  class="fil2 fnt2">E N T R E   R Í O S   630  -  L A   L U C I L A</text>
+  <text x="23045" y="4156"  class="fil2 fnt3">2257 529378</text>
+  <text x="25989" y="4156"  class="fil2 fnt5">Lote</text>
+  <text x="27869" y="4134"  class="fil2 fnt5">Venta</text>
+  <line class="fil0 str3" x1="28995" y1="4257" x2="22851" y2= "4257" />
+  <line class="fil0 str3" x1="25802" y1="4257" x2="25802" y2= "3810" />
+  <path class="fil6 str4" d="M22851 3493l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
+  <text x="25198" y="3371"  class="fil7 fnt6">Pablo Varela</text>
+  <circle class="fil0 str5" cx="28656" cy="3273" r="152"/>
+  <path class="fil0 str5" d="M28715 3213l-119 120m0 -120l119 120"/>
+  <line class="fil0 str3" x1="28995" y1="5181" x2="22851" y2= "5181" />
+  <line class="fil0 str3" x1="27701" y1="4257" x2="27701" y2= "3810" />
+  <text x="25061" y="4822"  class="fil2 fnt4">Orientación NORTE</text>
+  <g>
+   <g>
+    <text x="23761" y="5527"  class="fil2 fnt7">LUZ</text>
+    <rect class="fil4 str2" x="23376" y="5318" width="250" height="250" rx="4" ry="40"/>
+   </g>
+   <g>
+    <text x="25007" y="5528"  class="fil2 fnt7">GAS</text>
+    <rect class="fil4 str2" x="24621" y="5317" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="26278" y="5528"  class="fil2 fnt7">AGUA</text>
+    <rect class="fil4 str2" x="25893" y="5317" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="27682" y="5528"  class="fil2 fnt7">CLOACAS</text>
+    <rect class="fil4 str2" x="27296" y="5317" width="250" height="250" rx="40" ry="427"/>
+   </g>
+  </g>
+  <line class="fil0 str3" x1="24782" y1="5181" x2="24782" y2= "4257" />
+  <line class="fil0 str3" x1="27184" y1="5181" x2="27184" y2= "4257" />
+  <text x="23035" y="4822"  class="fil2 fnt4">m2 totales 300</text>
+  <path class="fil4 str2" d="M22871 9191l6104 0c11,0 20,-9 20,-20l0 -2655 -6144 0 0 2655c0,11 9,20 20,20z"/>
+  <rect class="fil5" x="22863" y="6516" width="6121" height="317"/>
+  <text x="24148" y="6782"  class="fil2 fnt2">M E N D O Z A   4 8 6 6  -  L A   L U C I L A</text>
+  <text x="23045" y="7178"  class="fil2 fnt3">11 66415901</text>
+  <text x="25989" y="7178"  class="fil2 fnt5">Local</text>
+  <text x="27869" y="7156"  class="fil2 fnt5">Venta</text>
+  <line class="fil0 str3" x1="28995" y1="7280" x2="22851" y2= "7280" />
+  <line class="fil0 str3" x1="25802" y1="7280" x2="25802" y2= "6833" />
+  <path class="fil6 str4" d="M22851 6516l6144 0 0 -424c0,-11 -9,-20 -20,-20l-6104 0c-11,0 -20,9 -20,20l0 424z"/>
+  <text x="25107" y="6394"  class="fil7 fnt6">Alfonso López</text>
+  <circle class="fil0 str5" cx="28656" cy="6296" r="152"/>
+  <path class="fil0 str5" d="M28715 6236l-119 119m0 -119l119 119"/>
+  <text x="23045" y="8313"  class="fil2 fnt4">Depósito SI</text>
+  <text x="24949" y="8313"  class="fil2 fnt4">m2 depósito</text>
+  <line class="fil0 str3" x1="28995" y1="8673" x2="22851" y2= "8673" />
+  <line class="fil0 str3" x1="27701" y1="7280" x2="27701" y2= "6833" />
+  <text x="24948" y="7835"  class="fil2 fnt4">Baños 1</text>
+  <g>
+   <g>
+    <text x="23761" y="9019"  class="fil2 fnt7">LUZ</text>
+    <rect class="fil4 str2" x="23376" y="8810" width="250" height="250" rx="4" ry="40"/>
+   </g>
+   <g>
+    <text x="25007" y="9020"  class="fil2 fnt7">GAS</text>
+    <rect class="fil4 str2" x="24621" y="8809" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="26278" y="9020"  class="fil2 fnt7">AGUA</text>
+    <rect class="fil4 str2" x="25893" y="8809" width="250" height="250" rx="40" ry="427"/>
+   </g>
+   <g>
+    <text x="27682" y="9020"  class="fil2 fnt7">CLOACAS</text>
+    <rect class="fil4 str2" x="27296" y="8809" width="250" height="250" rx="40" ry="427"/>
+   </g>
+  </g>
+  <text x="27098" y="7835"  class="fil2 fnt4">Cocina SI</text>
+  <line class="fil0 str3" x1="24604" y1="8673" x2="24604" y2= "7280" />
+  <line class="fil0 str3" x1="26759" y1="8673" x2="26759" y2= "7280" />
+  <text x="23035" y="7835"  class="fil2 fnt4">m2 totales 45</text>
+  <g>
+   <path class="fil11" d="M19354 4848c2,0 3,1 4,3 149,-23 285,-22 430,-38 -138,0 -281,10 -429,30 -3,2 -2,3 -5,5z"/>
+   <path class="fil11" d="M19380 4663c2,1 3,2 4,4 134,-30 247,-20 374,-38 -22,-10 -57,-1 -89,1 -89,7 -185,6 -284,29 -3,1 -2,3 -5,4z"/>
+   <path class="fil11" d="M19486 4869c1,3 3,2 4,4 91,-7 177,-4 271,-17 -7,-7 -23,-3 -33,-2 -76,6 -158,6 -236,13 -2,1 -4,2 -6,2z"/>
+   <path class="fil11" d="M19485 4769c1,3 4,2 5,4 83,-11 160,-11 238,-12 -75,-8 -158,-2 -243,8z"/>
+   <path class="fil11" d="M19561 4903c0,2 1,3 2,5 67,-7 130,-6 198,-17 -65,2 -135,0 -200,12z"/>
+   <path class="fil11" d="M19485 4744c1,1 1,3 2,4 84,-13 162,-14 244,-22 -76,-5 -164,-1 -246,18z"/>
+   <path class="fil11" d="M19433 4614c2,1 5,-1 6,1 100,-16 195,-24 290,-31 -89,-8 -190,5 -296,30z"/>
+   <path class="fil11" d="M19589 4911c0,1 1,2 1,3 80,6 163,3 245,4 -14,-8 -36,-6 -55,-7 -57,-4 -124,-2 -183,-3 -3,1 -5,2 -8,3z"/>
+   <path class="fil11" d="M19557 4803c2,0 4,1 5,3 59,-7 117,-12 174,-15 -8,-8 -26,-2 -39,-1 -42,3 -90,4 -132,8 -5,1 -5,3 -8,5z"/>
+   <path class="fil11" d="M19503 4524c1,1 2,3 2,4 29,-3 57,-7 88,-14 -29,1 -56,-2 -90,10z"/>
+   <path class="fil11" d="M19560 4551c32,2 67,-2 102,-5 -13,-7 -32,-3 -49,-2 -17,1 -35,1 -53,7z"/>
+   <path class="fil11" d="M19472 4718c88,-5 182,-19 274,-30 -88,4 -178,11 -274,30z"/>
+  </g>
+  <g>
+   <g>
+    <path class="fil11" d="M17811 2364c-40,78 -76,159 -106,247 14,-17 19,-40 27,-61 25,-59 54,-120 79,-181 2,-2 1,-3 0,-5z"/>
+    <path class="fil11" d="M18023 2408c-2,1 -3,2 -6,1 -41,121 -101,223 -148,339 60,-104 111,-216 156,-335 0,-3 -2,-3 -2,-5z"/>
+    <path class="fil11" d="M17743 2446c-3,0 -3,2 -5,2 -34,69 -70,135 -99,208 41,-62 68,-137 106,-203 1,-3 -1,-4 -2,-7z"/>
+    <path class="fil11" d="M18193 2495c-2,1 -3,2 -6,2 -28,112 -87,193 -124,296 19,-13 25,-43 37,-67 33,-70 75,-142 95,-225 0,-3 -2,-3 -2,-6z"/>
+    <path class="fil11" d="M17944 2499c-3,0 -3,2 -5,2 -32,71 -73,134 -101,210 11,-2 13,-16 17,-24 27,-59 62,-121 89,-182 0,-2 0,-4 0,-6z"/>
+    <path class="fil11" d="M17692 2514c-27,35 -45,76 -68,115 -22,38 -44,77 -64,117 16,-11 26,-32 37,-53 31,-57 68,-118 95,-179z"/>
+    <path class="fil11" d="M18043 2536c-3,-1 -3,1 -5,1 -26,67 -60,125 -92,185 40,-54 70,-119 97,-186z"/>
+    <path class="fil11" d="M17878 2543c-1,0 -3,0 -5,0 -22,53 -50,100 -69,155 26,-49 59,-101 74,-155z"/>
+    <path class="fil11" d="M18069 2545c-2,0 -4,0 -6,0 -24,68 -57,127 -84,192 38,-55 72,-123 90,-192z"/>
+    <path class="fil11" d="M17581 2548c-2,0 -3,0 -4,0 -18,28 -32,58 -48,86 -15,29 -35,56 -45,88 41,-49 71,-109 97,-174z"/>
+    <path class="fil11" d="M18218 2554c-1,0 -1,4 -3,4 -27,81 -61,155 -95,230 46,-65 76,-145 98,-234z"/>
+    <path class="fil11" d="M17537 2559c-2,0 -4,0 -6,0 -23,54 -55,98 -80,150 35,-43 64,-92 86,-150z"/>
+    <path class="fil11" d="M17858 2561c-1,0 -2,0 -3,0 -40,58 -74,122 -110,183 14,-8 22,-25 31,-38 29,-42 55,-93 82,-137 0,-3 0,-5 0,-8z"/>
+    <path class="fil11" d="M17979 2578c-1,1 -3,2 -5,2 -19,47 -39,93 -61,137 12,-4 14,-19 19,-30 14,-32 34,-69 49,-102 1,-4 -1,-5 -2,-7z"/>
+    <path class="fil11" d="M17487 2590c-2,0 -3,0 -5,0 -19,39 -46,69 -64,108 26,-32 51,-66 69,-108z"/>
+    <path class="fil11" d="M17782 2609c-13,6 -23,31 -30,49 12,-14 21,-32 30,-49z"/>
+    <path class="fil11" d="M17436 2611c-20,25 -37,54 -55,82 27,-18 38,-51 57,-75 1,-4 -1,-5 -2,-7z"/>
+    <path class="fil11" d="M18277 2640c-2,0 -4,0 -5,0 -10,22 -18,45 -24,71 11,-22 26,-41 29,-71z"/>
+    <path class="fil11" d="M18226 2673c-16,23 -28,51 -40,78 12,-7 17,-23 23,-36 6,-13 15,-27 17,-42z"/>
+    <path class="fil11" d="M18100 2545c-34,68 -61,144 -90,217 34,-68 66,-138 90,-217z"/>
+   </g>
+   <path class="fil12" d="M20072 4466c0,0 -23,-46 7,-59 29,-13 30,33 48,30 19,-4 -2,-88 43,-81 45,6 11,110 11,110l-109 0z"/>
+   <path class="fil12" d="M17439 4461c0,0 -45,-54 -24,-96 21,-41 70,-8 102,-14 32,-6 -73,-218 93,-263l20 373 -191 0z"/>
+   <path class="fil12" d="M19961 4465c0,0 0,-60 -24,-62 -24,-1 -36,30 -47,15 -12,-15 38,-157 -26,-201l-26 249 123 -1z"/>
+   <polygon class="fil12" points="19954,3146 20010,3146 19912,4122 19864,4122 "/>
+   <polygon class="fil12" points="17363,3123 17325,3123 17269,2318 17307,2321 "/>
+   <polygon class="fil13 str7" points="18405,2953 17535,2905 17558,3146 17365,3146 17305,2295 18368,2375 "/>
+   <polygon class="fil12" points="20057,2228 20092,2228 20008,2928 19989,2928 "/>
+   <polygon class="fil14" style="mask:url(#id0)" points="18281,2823 17456,2758 17473,3146 17558,3146 17535,2905 18411,2946 18368,2375 18188,2361 "/>
+   <polygon class="fil14" points="20023,2496 19985,2894 20451,2894 20503,2456 "/>
+   <g>
+    <polygon class="fil15" points="20432,2462 20387,2465 20331,2894 20362,2894 "/>
+    <polygon class="fil15" points="20143,2894 20281,2894 20334,2470 20191,2482 "/>
+   </g>
+   <polygon class="fil14" style="mask:url(#id2)" points="20046,2841 20055,2493 20023,2496 19985,2894 20451,2894 20455,2865 "/>
+   <polygon class="fil13 str7" points="18405,2945 18359,2239 20068,2117 19841,4458 18511,4458 "/>
+   <polygon class="fil16" style="mask:url(#id4)" points="18511,4458 19203,4458 19268,3104 18413,3064 "/>
+   <polygon class="fil15 str7" points="17620,4458 19113,4458 19183,2982 17535,2905 "/>
+   <polygon class="fil12" points="17786,4458 18935,4458 18989,3282 17720,3221 "/>
+   <polygon class="fil15" points="17833,4458 18883,4458 18933,3333 17774,3275 "/>
+   <path class="fil12" d="M18886 4386l-1056 0 -1 -12 1058 0 -1 12zm7 -150l-1071 0 -1 -11 1072 0 0 11zm-1080 -185l1087 15 0 11 -1087 -14 0 -12zm1094 -133l-1101 0 -1 -12 1102 0 0 12zm-1110 -178l1118 0 -1 11 -1116 0 -1 -11zm1123 -125l-1131 -27 0 -12 1132 27 -1 12zm-1138 -179l1144 56 -1 12 -1143 -56 0 -12zm1148 -37l-1154 -77 -1 -12 1155 78 0 11z"/>
+   <polygon class="fil14" style="mask:url(#id6)" points="17777,3344 18739,3482 18806,4458 18883,4458 18933,3333 17774,3275 "/>
+   <polygon class="fil12" points="18468,4265 18457,4341 18250,4341 18245,4277 "/>
+   <g>
+    <polygon class="fil17" style="mask:url(#id8)" points="18587,2353 18626,2879 19769,2894 19804,2295 "/>
+    <polygon class="fil18 str8" points="18568,2340 18607,2866 19750,2880 19785,2281 "/>
+    <polygon class="fil12" points="18611,2375 18644,2829 19711,2841 19742,2321 "/>
+    <polygon class="fil14" points="18630,2391 18661,2812 19694,2823 19723,2339 "/>
+    <g>
+     <polygon class="fil15" points="19190,2376 19154,2377 19088,2817 19118,2817 "/>
+     <polygon class="fil15" points="18829,2814 19008,2816 19067,2379 18896,2384 "/>
+    </g>
+    <polygon class="fil15" style="mask:url(#id10)" points="18630,2391 18634,2450 19635,2492 19670,2822 19694,2823 19723,2339 "/>
+   </g>
+   <g>
+    <polygon class="fil19" points="19773,4370 19310,4356 19315,4401 19285,4400 19292,4458 19797,4458 19803,4392 19770,4391 "/>
+    <polygon class="fil19" points="19304,4372 19311,3392 19796,3411 19737,4384 "/>
+    <polygon class="fil18" points="19778,4401 19259,4387 19268,4458 19771,4458 "/>
+    <polygon class="fil18" points="19750,4357 19285,4343 19292,4414 19744,4414 "/>
+    <polygon class="fil19" points="19290,4388 19745,4400 19746,4394 19287,4367 "/>
+    <polygon class="fil18 str7" points="19318,4344 19325,3364 19778,3383 19719,4356 "/>
+    <polygon class="fil15 str7" points="19354,4344 19360,3404 19736,3423 19687,4356 "/>
+    <polygon class="fil20" points="19719,4356 19318,4344 19318,4254 19355,4258 19355,4275 19689,4316 19690,4305 19722,4311 "/>
+    <path class="fil12" d="M19682 3921c0,10 -7,18 -16,18 -10,0 -17,-8 -17,-18 0,-10 7,-19 17,-19 9,0 16,9 16,19z"/>
+    <polygon class="fil12" points="19649,3961 19682,3965 19674,4040 19654,4040 "/>
+   </g>
+   <polygon class="fil12" points="17637,4458 17563,2928 18841,2966 17535,2905 17620,4458 "/>
+   <path class="fil12" d="M17205 4469c0,0 12,-1 35,-2 22,0 55,-2 97,-4 43,-1 94,-3 152,-5 59,-2 125,-4 197,-5 72,-2 150,-4 233,-5 83,-2 170,-4 260,-4 180,-2 373,-3 565,-4 192,1 385,2 565,4 90,0 177,2 260,4 83,2 161,3 233,5 72,1 138,3 197,5 59,2 110,4 152,5 42,2 75,4 97,4 23,1 35,2 35,2l0 0c1,0 2,1 2,2 0,1 -1,1 -2,1 0,0 -770,1 -1539,2 -769,-1 -1539,-2 -1539,-2 -1,0 -1,0 -1,-1 0,-1 0,-2 1,-2l0 0z"/>
+   <path class="fil21" d="M17343 4473c-1,0 -2,0 -3,-1 -3,-2 -4,-5 -2,-8 2,-4 -7,-24 -15,-35 -2,-2 -1,-6 1,-8 2,-2 6,-2 7,1 1,0 24,33 16,48 -1,2 -3,3 -4,3z"/>
+   <path class="fil21" d="M17362 4471c0,0 -1,0 -2,0 -2,-1 -4,-5 -2,-8 0,-1 0,-4 0,-7 -1,-5 -1,-13 3,-18 2,-2 5,-2 8,0 2,2 2,5 0,8 -1,1 -1,6 -1,9 1,5 1,9 -1,13 -1,2 -2,3 -5,3z"/>
+   <path class="fil12" d="M17745 4466c0,0 -1,0 -2,0 -2,-1 -4,-4 -3,-7 4,-11 -6,-37 -16,-42 -2,-1 -3,-5 -2,-8 1,-3 4,-4 7,-2 15,8 27,39 21,56 -1,2 -3,3 -5,3z"/>
+   <path class="fil12" d="M17717 4468c-1,0 -2,0 -3,-1 -2,-1 -3,-5 -2,-8 0,-5 -19,-22 -25,-23 -3,0 -5,-3 -4,-7 0,-3 3,-5 6,-4 8,1 27,16 32,28 2,6 1,9 0,12 -1,2 -3,3 -4,3z"/>
+   <path class="fil12" d="M18103 4459c-1,0 -1,0 -2,0 -2,-1 -4,-4 -3,-7 0,-2 0,-6 0,-9 0,-4 0,-8 1,-12 2,-10 6,-16 12,-24 2,-2 6,-2 8,0 2,2 2,6 0,8 -5,6 -8,11 -9,19 -1,3 -1,6 -1,9 0,4 0,8 -1,12 -1,2 -3,4 -5,4z"/>
+   <path class="fil12" d="M18085 4461c-1,0 -1,0 -2,-1 -3,-1 -4,-4 -3,-7 1,-4 -8,-18 -15,-25 -2,-2 -2,-5 0,-8 2,-2 5,-2 7,0 5,4 22,24 18,37 -1,2 -3,4 -5,4z"/>
+   <path class="fil12" d="M18501 4456c-3,0 -5,-3 -5,-6 0,-16 1,-32 12,-46 2,-2 5,-3 7,-1 2,2 3,6 1,8 -8,12 -9,26 -9,39 0,3 -3,6 -6,6z"/>
+   <path class="fil12" d="M19078 4460c-1,0 -1,0 -2,-1 -3,-1 -4,-5 -2,-8 3,-5 -6,-22 -14,-28 -2,-2 -2,-6 0,-8 2,-3 5,-3 7,-1 8,7 23,29 16,43 -1,2 -3,3 -5,3z"/>
+   <path class="fil12" d="M19136 4459c-1,0 -2,0 -3,-1 -2,-1 -3,-5 -1,-7 0,-2 0,-9 0,-13 -1,-2 -1,-5 -1,-6 0,-11 2,-64 29,-74 2,-1 5,1 6,4 1,3 0,6 -3,7 -16,6 -21,44 -21,63 0,1 0,3 0,5 1,7 1,14 -1,19 -1,2 -3,3 -5,3z"/>
+   <path class="fil12" d="M19987 4466l-5 0c0,-18 0,-45 23,-52 3,-1 6,0 6,3 1,3 0,7 -3,7 -14,5 -15,21 -16,42l-5 0z"/>
+   <path class="fil12" d="M20002 4471c-3,0 -5,-3 -6,-6 0,-13 13,-22 23,-23 3,0 6,2 6,5 0,3 -2,6 -5,6 -6,1 -13,6 -13,12 0,3 -2,6 -5,6 0,0 0,0 0,0z"/>
+   <polygon class="fil15 str7" points="19901,2928 20485,2928 20482,3066 19901,3054 "/>
+   <polygon class="fil14" style="mask:url(#id12)" points="19939,2928 19908,3054 20482,3066 20482,3045 20008,3024 20020,2928 "/>
+   <path class="fil11" d="M19987 2921l1 -2c-6,-2 -6,-1 -11,-6l0 0 -1 -1c-12,-10 -24,-25 -37,-35 -1,-2 -4,-3 -6,-5l-5 -3c-1,-1 -2,-2 -2,-3l0 0c-3,-1 -2,-6 -1,-7 12,-4 24,11 33,20 11,10 20,21 29,27 -1,-7 2,-14 0,-21 -14,-4 -22,-17 -33,-26 -8,-7 -23,-12 -19,-22 9,-3 18,6 25,12 10,8 18,19 27,25 1,-7 -1,-13 1,-20 -10,-12 -27,-24 -42,-35 -8,-6 -21,-11 -17,-20 7,-5 15,5 23,10 14,10 29,21 38,30 1,-5 2,-11 0,-16 -12,-13 -44,-24 -42,-39 13,-4 30,18 45,26 1,-7 1,-14 -1,-20 -13,-13 -45,-24 -43,-39 13,-4 30,19 45,26 1,-7 3,-14 4,-21 -12,-13 -43,-23 -41,-38 12,-5 28,16 41,23 2,-6 2,-11 4,-17l-30 -21c-10,-7 -24,-13 -21,-24 15,-2 35,23 52,32 2,-6 3,-11 4,-17l-31 -22c-10,-8 -26,-14 -23,-25 9,-4 17,6 26,13l29 20c2,-8 1,-17 2,-25 -7,-7 -19,-13 -29,-19 -10,-6 -25,-14 -23,-24 11,-4 22,11 34,18 7,4 14,7 20,10 0,-8 1,-18 2,-26 -10,-7 -24,-17 -35,-23 -5,-4 -16,-6 -11,-14 14,-5 33,18 49,24 2,-8 5,-15 3,-22 -8,-4 -20,-11 -31,-17 -9,-6 -23,-13 -20,-23 10,-4 19,9 29,15 9,5 18,9 25,14 1,-8 2,-16 1,-23 -12,-11 -42,-16 -41,-32 13,-3 29,15 43,21 1,-6 4,-13 2,-18 -12,-11 -45,-15 -44,-33 8,-6 15,5 22,9 9,5 19,8 25,12 0,-7 5,-15 2,-22 -13,-11 -46,-13 -45,-30 15,-3 32,15 47,18 1,-17 -45,-22 -43,-42 13,-2 29,15 43,22 26,5 16,83 10,113 -2,20 -7,39 -10,58 -3,19 -3,38 -5,56 -3,39 -13,77 -15,114 -1,11 0,22 -2,34 -3,28 -3,51 -4,80 -2,44 -1,24 -22,16z"/>
+   <g>
+    <path class="fil11" d="M19574 3481c-24,16 -47,33 -70,54 7,-3 12,-9 18,-13 16,-13 34,-26 51,-40 1,0 1,-1 1,-1z"/>
+    <path class="fil11" d="M19628 3527c-1,0 -2,0 -2,-1 -31,28 -64,48 -96,74 33,-20 66,-44 97,-71 1,-1 0,-2 1,-2z"/>
+    <path class="fil11" d="M19541 3494c0,-1 -1,0 -2,-1 -20,15 -41,28 -61,44 22,-11 42,-28 63,-41 1,-1 0,-2 0,-2z"/>
+    <path class="fil11" d="M19663 3579c-1,0 -2,0 -2,-1 -26,28 -56,42 -83,66 8,-1 14,-9 22,-14 20,-15 43,-29 62,-50 1,0 0,-1 1,-1z"/>
+    <path class="fil11" d="M19591 3540c-1,0 -1,0 -2,0 -21,16 -42,27 -62,45 3,1 6,-3 8,-5 17,-12 37,-24 55,-38 0,0 0,-1 1,-2z"/>
+    <path class="fil11" d="M19516 3505c-13,6 -25,15 -38,22 -12,8 -24,15 -36,24 6,-1 12,-5 18,-10 18,-11 39,-23 56,-36z"/>
+    <path class="fil11" d="M19613 3567c-1,-1 -1,0 -2,-1 -17,15 -36,27 -55,39 20,-9 39,-23 57,-38z"/>
+    <path class="fil11" d="M19565 3543c-1,-1 -1,-1 -2,-1 -14,12 -30,21 -44,33 15,-9 33,-19 46,-32z"/>
+    <path class="fil11" d="M19619 3573c0,0 -1,0 -1,-1 -18,16 -37,28 -55,42 20,-10 40,-24 56,-41z"/>
+    <path class="fil11" d="M19479 3497c-1,0 -1,0 -2,0 -9,5 -18,11 -27,17 -9,6 -19,10 -27,18 20,-8 38,-20 56,-35z"/>
+    <path class="fil11" d="M19661 3599c-1,0 -1,1 -2,1 -21,19 -42,35 -64,51 24,-11 45,-30 66,-52z"/>
+    <path class="fil11" d="M19464 3494c0,-1 -1,-1 -1,-1 -16,11 -32,19 -47,30 17,-7 33,-16 48,-29z"/>
+    <path class="fil11" d="M19556 3545c0,0 0,-1 -1,-1 -20,11 -40,24 -60,35 5,0 10,-3 15,-6 15,-7 30,-18 45,-26 0,-1 1,-2 1,-2z"/>
+    <path class="fil11" d="M19588 3569c0,0 -1,0 -2,-1 -12,11 -25,21 -39,30 4,1 7,-3 10,-5 10,-7 21,-15 31,-22 0,-1 0,-2 0,-2z"/>
+    <path class="fil11" d="M19445 3495c0,-1 -1,-1 -1,-1 -12,8 -24,12 -36,21 13,-6 26,-11 37,-20z"/>
+    <path class="fil11" d="M19527 3546c-5,0 -12,6 -16,10 5,-2 10,-6 16,-10z"/>
+    <path class="fil11" d="M19427 3492c-9,5 -19,10 -28,15 10,-1 18,-8 28,-12 1,-1 0,-2 0,-3z"/>
+    <path class="fil11" d="M19664 3633c-1,0 -1,0 -2,-1 -6,5 -12,11 -18,17 7,-4 14,-8 20,-16z"/>
+    <path class="fil11" d="M19644 3635c-8,4 -16,10 -24,16 5,0 9,-4 13,-7 3,-3 8,-5 11,-9z"/>
+    <path class="fil11" d="M19628 3578c-20,14 -40,32 -60,48 21,-14 41,-29 60,-48z"/>
+   </g>
+  </g>
+ </g>
+</svg>
