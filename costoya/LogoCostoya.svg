@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   width="3355"
-   height="923"
+   width="80.000008"
+   height="22.008944"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 3355 923"
+   viewBox="0 0 80.000008 22.008944"
    id="svg55"
    sodipodi:docname="LogoCostoya.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
@@ -38,7 +38,7 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="0.12786885"
-   inkscape:cx="715.57692"
+   inkscape:cx="-1118.3334"
    inkscape:cy="461.5"
    inkscape:window-x="5"
    inkscape:window-y="1"
@@ -57,7 +57,8 @@
   </style>
  </defs>
  <g
-   id="Capa_x0020_1">
+   id="Capa_x0020_1"
+   transform="scale(0.02384501)">
   <metadata
    id="CorelCorpID_0Corel-Layer" />
   <g
@@ -66,7 +67,7 @@
    id="g45">
     <polygon
    class="fil0"
-   points="1461,814 1330,814 1330,700 1461,700 1461,727 1366,727 1366,743 1456,743 1456,768 1366,768 1366,787 1461,787 "
+   points="1461,787 1461,814 1330,814 1330,700 1461,700 1461,727 1366,727 1366,743 1456,743 1456,768 1366,768 1366,787 "
    id="polygon7"
    style="fill:#a19f9e;fill-rule:nonzero" />
     <path
@@ -107,7 +108,7 @@
    style="fill:#a19f9e;fill-rule:nonzero" />
     <polygon
    class="fil0"
-   points="2222,814 2185,814 2185,700 2222,700 "
+   points="2222,700 2222,814 2185,814 2185,700 "
    id="polygon21"
    style="fill:#a19f9e;fill-rule:nonzero" />
     <path
@@ -142,7 +143,7 @@
    style="fill:#a19f9e;fill-rule:nonzero" />
     <polygon
    class="fil0"
-   points="2894,814 2862,814 2862,700 2894,700 "
+   points="2894,700 2894,814 2862,814 2862,700 "
    id="polygon33"
    style="fill:#a19f9e;fill-rule:nonzero" />
     <path
