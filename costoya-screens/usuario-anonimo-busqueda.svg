@@ -7,13 +7,14 @@ viewBox="0 0 39600 26700"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str5 {stroke:#D6D6D6;stroke-width:22.55}
+    .str6 {stroke:#D6D6D6;stroke-width:22.55}
     .str4 {stroke:#858384;stroke-width:20}
     .str1 {stroke:#C9C7C7;stroke-width:20}
+    .str5 {stroke:#C9C7C7;stroke-width:15}
     .str3 {stroke:#C9C7C7;stroke-width:15.03}
     .str0 {stroke:#C9C7C7;stroke-width:7.52}
     .str2 {stroke:#C9C7C7;stroke-width:7.62}
-    .str6 {stroke:#858384;stroke-width:20}
+    .str7 {stroke:#858384;stroke-width:20}
     .fil0 {fill:none}
     .fil9 {fill:#F0F0F0}
     .fil5 {fill:#F0F0F0}
@@ -24,8 +25,9 @@ viewBox="0 0 39600 26700"
     .fil7 {fill:#C9C7C7}
     .fil10 {fill:#C9C7C7}
     .fil3 {fill:#F0F0F0}
-    .fil11 {fill:white}
+    .fil12 {fill:white}
     .fil8 {fill:white}
+    .fil11 {fill:white}
     .fnt15 {font-weight:normal;font-size:222.25px;font-family:'Roboto Cn'}
     .fnt10 {font-weight:normal;font-size:229.31px;font-family:'Roboto'}
     .fnt4 {font-weight:normal;font-size:229.31px;font-family:'Roboto Cn'}
@@ -33,6 +35,7 @@ viewBox="0 0 39600 26700"
     .fnt13 {font-weight:normal;font-size:246.94px;font-family:'Roboto'}
     .fnt12 {font-weight:normal;font-size:257.53px;font-family:'Arial'}
     .fnt8 {font-weight:normal;font-size:257.53px;font-family:'Roboto'}
+    .fnt18 {font-weight:normal;font-size:271.64px;font-family:'Roboto'}
     .fnt6 {font-weight:normal;font-size:282.21px;font-family:'Roboto Cn'}
     .fnt0 {font-weight:normal;font-size:282.22px;font-family:'Arial'}
     .fnt9 {font-weight:normal;font-size:282.22px;font-family:'Roboto'}
@@ -42,7 +45,7 @@ viewBox="0 0 39600 26700"
     .fnt3 {font-weight:normal;font-size:352.77px;font-family:'Roboto'}
     .fnt2 {font-weight:bold;font-size:352.77px;font-family:'Roboto'}
     .fnt11 {font-weight:normal;font-size:397.09px;font-family:'Raleway'}
-    .fnt18 {font-weight:500;font-size:503.79px;font-family:'Raleway'}
+    .fnt19 {font-weight:500;font-size:503.79px;font-family:'Raleway'}
     .fnt5 {font-weight:normal;font-size:635px;font-family:'Raleway'}
     .fnt1 {font-style:italic;font-weight:normal;font-size:246.94px;font-family:'Roboto'}
    ]]>
@@ -1551,13 +1554,13 @@ ca3gedfBc+5I+kz/fykbbIEOnEhJAAAAAElFTkSuQmCC"/>
   <text x="36253" y="9336"  class="fil1 fnt2"> </text>
   <text x="36543" y="9336"  class="fil1 fnt2">8</text>
   <text x="34368" y="9336"  class="fil1 fnt3">VALOR</text>
-  <text x="36407" y="8460"  class="fil1 fnt4">140 </text>
+  <text x="36407" y="8460"  class="fil1 fnt4">240 </text>
   <text x="36812" y="8460"  class="fil1 fnt4">m</text>
   <text x="36985" y="8460"  class="fil1 fnt4">2</text>
-  <text x="34972" y="8460"  class="fil1 fnt4">Garage</text>
-  <text x="35610" y="8460"  class="fil1 fnt4"> 1</text>
-  <text x="33571" y="8460"  class="fil1 fnt4">Baños 2</text>
-  <text x="31677" y="8460"  class="fil1 fnt4">Dormitorios 2</text>
+  <text x="34937" y="8460"  class="fil1 fnt4">Garage</text>
+  <text x="35575" y="8460"  class="fil1 fnt4"> 1</text>
+  <text x="33502" y="8460"  class="fil1 fnt4">Baños 2</text>
+  <text x="31677" y="8460"  class="fil1 fnt4">Ambientes 3</text>
   <path class="fil0 str2" d="M37641 7914l-6294 0m0 874l6294 0"/>
   <polygon class="fil3" points="31345,7721 37635,7721 37639,7455 36648,3713 35624,6801 34740,5363 33808,7252 32656,4866 "/>
   <circle class="fil3" cx="33837" cy="4696" r="322"/>
@@ -1575,7 +1578,7 @@ ca3gedfBc+5I+kz/fykbbIEOnEhJAAAAAElFTkSuQmCC"/>
   <text x="24925" y="8457"  class="fil4 fnt5">consulta!</text>
   <text x="24925" y="9948"  class="fil4 fnt5">En breve te </text>
   <text x="24925" y="10694"  class="fil4 fnt5">contestaremos.</text>
-  <g id="_1077301455232">
+  <g id="_219892878912">
    <path class="fil6" d="M26693 5133c-85,167 -163,341 -227,528 31,-36 41,-86 59,-129 53,-127 116,-257 168,-387 5,-5 1,-6 0,-12z"/>
    <path class="fil6" d="M27147 5227c-4,2 -7,4 -12,4 -90,257 -217,476 -317,723 127,-222 237,-461 332,-715 2,-7 -3,-7 -3,-12z"/>
    <path class="fil6" d="M26548 5309c-6,-1 -6,4 -11,4 -72,148 -149,289 -212,446 88,-133 147,-295 227,-434 2,-8 -3,-11 -4,-16z"/>
@@ -3005,7 +3008,7 @@ gg=="/>
   <rect class="fil0 str1" x="16848" y="16093" width="5890" height="455"/>
   <text x="17012" y="16406"  class="fil7 fnt8">Nombre y Apellido</text>
   <text x="16647" y="15837"  class="fil1 fnt0">Consulte por esta propiedad</text>
-  <g id="_1077301362416">
+  <g id="_219892869312">
    <circle class="fil2" cx="18685" cy="14915" r="208"/>
    <path class="fil8" d="M18670 14869c3,5 6,11 4,17 -2,4 -9,6 -12,9 -2,2 -2,3 -1,6 6,15 17,28 32,36 2,2 4,2 6,0 3,-3 6,-6 11,-7 4,-1 9,1 12,3 5,2 12,5 15,10 2,4 1,10 -2,14 -6,7 -14,10 -23,10 -2,0 -5,-1 -7,-1 -6,-1 -11,-4 -16,-7 -4,-2 -8,-5 -11,-7 -12,-9 -22,-19 -29,-32 -4,-6 -7,-12 -10,-19 -2,-8 -5,-15 -3,-23 1,-9 7,-17 15,-21 3,-1 5,-1 8,-1 5,2 9,9 11,13zm-61 96l-2 -4c-9,-14 -13,-31 -13,-47 0,-51 41,-93 92,-93 51,0 93,42 93,93 0,51 -42,92 -93,92 -17,0 -33,-4 -48,-13l-4 -3 -34 10 9 -35zm-40 65l62 -16c17,9 36,14 55,14 63,0 114,-51 114,-114 0,-63 -51,-114 -114,-114 -63,0 -114,51 -114,114 0,19 5,37 14,54l-17 62z"/>
   </g>
@@ -3114,15 +3117,15 @@ gg=="/>
   <text x="21551" y="10161"  class="fil1 fnt2"> </text>
   <text x="21841" y="10161"  class="fil1 fnt2">8</text>
   <text x="19666" y="10161"  class="fil1 fnt3">VALOR</text>
-  <text x="21705" y="9285"  class="fil1 fnt4">140 </text>
+  <text x="21705" y="9285"  class="fil1 fnt4">240 </text>
   <text x="22110" y="9285"  class="fil1 fnt4">m</text>
   <text x="22283" y="9285"  class="fil1 fnt4">2</text>
-  <text x="20270" y="9285"  class="fil1 fnt4">Garage</text>
-  <text x="20909" y="9285"  class="fil1 fnt4"> 1</text>
-  <text x="18870" y="9285"  class="fil1 fnt4">Baños 2</text>
-  <text x="16975" y="9285"  class="fil1 fnt4">Dormitorios 2</text>
+  <text x="20235" y="9285"  class="fil1 fnt4">Garage</text>
+  <text x="20874" y="9285"  class="fil1 fnt4"> 1</text>
+  <text x="18800" y="9285"  class="fil1 fnt4">Baños 2</text>
+  <text x="16975" y="9285"  class="fil1 fnt4">Ambientes 3</text>
   <path class="fil0 str2" d="M22939 8739l-6294 0m0 874l6294 0"/>
-  <g id="_1077331396336">
+  <g id="_219759620304">
    <circle class="fil2" cx="17760" cy="8230" r="78"/>
    <circle class="fil10" cx="18166" cy="8230" r="78"/>
    <circle class="fil10" cx="18573" cy="8230" r="78"/>
@@ -3137,23 +3140,23 @@ gg=="/>
   </g>
   <polyline class="fil0 str4" points="22368,7942 22568,8230 22368,8517 "/>
   <polyline class="fil0 str4" points="17217,7942 17017,8230 17217,8517 "/>
-  <polygon class="fil3" points="16643,7721 22934,7721 22937,7455 21946,3713 20922,6801 20038,5363 19106,7252 17954,4866 "/>
+  <rect class="fil11 str3" x="16647" y="3031" width="6290" height="4689"/>
+  <polygon class="fil3" points="16655,7713 22930,7713 22930,7452 21946,3713 20922,6801 20038,5363 19106,7252 17954,4866 "/>
   <circle class="fil3" cx="19135" cy="4696" r="322"/>
-  <rect class="fil0 str3" x="16647" y="3031" width="6290" height="4689"/>
   <text x="16633" y="2679"  class="fil1 fnt0">Casa en Venta  |  </text>
   <text x="19368" y="2679"  class="fil1 fnt0">San Bernardo</text>
   <text x="17316" y="1943"  class="fil4 fnt5">Costanera </text>
   <text x="20466" y="1943"  class="fil4 fnt5">3350</text>
   <g id="_B_RESULTADO">
-   <text x="22331" y="1473"  class="fil2 fnt10">volver</text>
-   <polyline class="fil0 str4" points="22282,1346 22246,1408 22282,1469 "/>
+   <text x="22331" y="1373"  class="fil2 fnt10">volver</text>
+   <polyline class="fil0 str4" points="22282,1246 22246,1308 22282,1369 "/>
   </g>
   <rect id="_P_RESULTADO" class="fil0 str0" x="9108" y="650" width="6873" height="19337"/>
   <g id="_B_DETALLE_1">
-   <polygon class="fil3" points="9394,12401 15685,12401 15688,12136 14697,8394 13673,11482 12789,10044 11857,11933 10705,9547 "/>
+   <rect class="fil11 str3" x="9398" y="7712" width="6290" height="5822"/>
+   <polygon class="fil3" points="9406,12384 15681,12385 15681,12136 14697,8394 13673,11482 12789,10044 11857,11933 10705,9547 "/>
    <circle class="fil3" cx="11886" cy="9377" r="322"/>
-   <rect class="fil0 str3" x="9398" y="7712" width="6290" height="5822"/>
-   <rect class="fil11 str2" x="9398" y="12388" width="6290" height="1146"/>
+   <rect class="fil12 str5" x="9398" y="12388" width="6290" height="1146"/>
    <text x="9620" y="8285"  class="fil1 fnt11">Resultado 1</text>
    <text x="9645" y="12741"  class="fil1 fnt12">Casa en Venta  |  </text>
    <text x="12140" y="12741"  class="fil1 fnt12">San Bernardo</text>
@@ -3164,76 +3167,89 @@ gg=="/>
    <text x="9632" y="12192"  class="fil1 fnt14">U$S 1</text>
    <text x="10691" y="12192"  class="fil1 fnt14">0.000</text>
    <text x="10515" y="12192"  class="fil1 fnt14">8</text>
-   <text x="14063" y="13413"  class="fil1 fnt15">140 </text>
+   <text x="14063" y="13413"  class="fil1 fnt15">240 </text>
    <text x="14456" y="13413"  class="fil1 fnt15">m</text>
    <text x="14624" y="13413"  class="fil1 fnt15">2</text>
-   <text x="12882" y="13413"  class="fil1 fnt15">Garage</text>
-   <text x="13500" y="13413"  class="fil1 fnt15"> 1</text>
-   <text x="11735" y="13413"  class="fil1 fnt15">Baños 2</text>
-   <text x="10093" y="13413"  class="fil1 fnt15">Dormitorios 2</text>
-   <polygon class="fil3" points="9394,18706 15685,18706 15688,18440 14697,14698 13673,17786 12789,16349 11857,18237 10705,15851 "/>
+   <text x="12843" y="13413"  class="fil1 fnt15">Garage</text>
+   <text x="13462" y="13413"  class="fil1 fnt15"> 1</text>
+   <text x="11657" y="13413"  class="fil1 fnt15">Baños 2</text>
+   <text x="10093" y="13413"  class="fil1 fnt15">Ambientes 3</text>
+   <rect class="fil11 str3" x="9398" y="14017" width="6290" height="5822"/>
+   <polygon class="fil3" points="9406,18689 15681,18689 15681,18438 14697,14698 13673,17786 12789,16349 11857,18237 10705,15851 "/>
    <circle class="fil3" cx="11886" cy="15681" r="322"/>
-   <rect class="fil0 str3" x="9398" y="14017" width="6290" height="5822"/>
-   <rect class="fil11 str2" x="9398" y="18693" width="6290" height="1146"/>
+   <rect class="fil12 str5" x="9398" y="18693" width="6290" height="1146"/>
    <text x="9620" y="14589"  class="fil1 fnt11">Resultado </text>
    <text x="11578" y="14589"  class="fil1 fnt11">2</text>
-   <text x="9645" y="19045"  class="fil1 fnt12">Casa en Venta  |  </text>
-   <text x="12140" y="19045"  class="fil1 fnt12">San Bernardo</text>
-   <text x="9656" y="19342"  class="fil7 fnt13">Av. </text>
-   <text x="11382" y="19342"  class="fil7 fnt13">3</text>
-   <text x="10045" y="19342"  class="fil7 fnt13">Costanera 3</text>
-   <text x="11521" y="19342"  class="fil7 fnt13">50</text>
-   <text x="9632" y="18496"  class="fil1 fnt14">U$S 1</text>
-   <text x="10691" y="18496"  class="fil1 fnt14">0.000</text>
-   <text x="10515" y="18496"  class="fil1 fnt14">8</text>
-   <text x="14063" y="19717"  class="fil1 fnt15">140 </text>
+   <text x="9645" y="19045"  class="fil1 fnt12">Casa en </text>
+   <text x="12206" y="19045"  class="fil1 fnt12">  |  </text>
+   <text x="10897" y="19045"  class="fil1 fnt12">alquiler</text>
+   <text x="12559" y="19045"  class="fil1 fnt12">San Bernardo</text>
+   <text x="9656" y="19342"  class="fil7 fnt13">Catamarca</text>
+   <text x="11068" y="19342"  class="fil7 fnt13">275</text>
+   <text x="10868" y="19342"  class="fil7 fnt13"> 3</text>
+   <text x="9632" y="18496"  class="fil1 fnt14">U$S </text>
+   <text x="10868" y="18496"  class="fil1 fnt14">.000</text>
+   <text x="10338" y="18496"  class="fil1 fnt14">223</text>
+   <text x="14063" y="19717"  class="fil1 fnt15">300 </text>
    <text x="14456" y="19717"  class="fil1 fnt15">m</text>
    <text x="14624" y="19717"  class="fil1 fnt15">2</text>
-   <text x="12882" y="19717"  class="fil1 fnt15">Garage</text>
-   <text x="13500" y="19717"  class="fil1 fnt15"> 1</text>
-   <text x="11735" y="19717"  class="fil1 fnt15">Baños 2</text>
-   <text x="10093" y="19717"  class="fil1 fnt15">Dormitorios 2</text>
+   <text x="12843" y="19717"  class="fil1 fnt15">Garage</text>
+   <text x="13462" y="19717"  class="fil1 fnt15"> 1</text>
+   <text x="11657" y="19717"  class="fil1 fnt15">Baños 1</text>
+   <text x="10093" y="19717"  class="fil1 fnt15">Ambientes 3</text>
   </g>
-  <rect class="fil11 str5" x="11952" y="6796" width="2503" height="525"/>
-  <rect class="fil11 str5" x="14024" y="6796" width="431" height="525"/>
+  <rect class="fil12 str6" x="11952" y="6796" width="2503" height="525"/>
+  <rect class="fil12 str6" x="14024" y="6796" width="431" height="525"/>
   <polygon class="fil7" points="14105,6988 14374,6988 14239,7168 "/>
   <text x="12080" y="7154"  class="fil7 fnt16">Más recientes</text>
   <text x="10247" y="7140"  class="fil1 fnt17">Ordenar por</text>
-  <rect class="fil11 str5" x="14017" y="6026" width="1599" height="575"/>
+  <rect class="fil12 str6" x="14017" y="6026" width="1599" height="575"/>
   <text x="14129" y="6410"  class="fil7 fnt16">$</text>
-  <rect class="fil11 str5" x="12208" y="6026" width="1599" height="575"/>
+  <rect class="fil12 str6" x="12208" y="6026" width="1599" height="575"/>
   <text x="12320" y="6410"  class="fil7 fnt16">$</text>
-  <rect class="fil11 str5" x="9472" y="6026" width="2375" height="575"/>
-  <rect class="fil11 str5" x="11417" y="6026" width="431" height="575"/>
+  <rect class="fil12 str6" x="9472" y="6026" width="2375" height="575"/>
+  <rect class="fil12 str6" x="11417" y="6026" width="431" height="575"/>
   <polygon class="fil7" points="11497,6244 11767,6244 11633,6424 "/>
   <text x="9584" y="6410"  class="fil7 fnt16">Seleccione</text>
   <text x="14144" y="5924"  class="fil1 fnt17">Hasta</text>
   <text x="12334" y="5924"  class="fil1 fnt17">Desde</text>
-  <text x="9599" y="5924"  class="fil1 fnt17">Dormitorios</text>
-  <rect class="fil11 str5" x="9472" y="4958" width="6144" height="575"/>
-  <text x="9584" y="5342"  class="fil7 fnt16">Seleccione una localidad</text>
+  <text x="9599" y="5924"  class="fil1 fnt17">Ambientes</text>
+  <rect class="fil12 str6" x="9472" y="4958" width="6144" height="575"/>
+  <text x="9584" y="5342"  class="fil2 fnt18">San Bernardo</text>
   <text x="9599" y="4856"  class="fil1 fnt17">Ubicación</text>
-  <rect class="fil11 str5" x="9472" y="3890" width="6144" height="575"/>
-  <text x="9584" y="4273"  class="fil7 fnt16">Seleccione una propiedad</text>
+  <rect class="fil12 str6" x="9472" y="3890" width="6144" height="575"/>
+  <text x="9584" y="4273"  class="fil2 fnt18">Casa</text>
   <text x="9599" y="3788"  class="fil1 fnt17">Tipo de Propiedad</text>
-  <rect class="fil11 str5" x="9472" y="2821" width="6144" height="575"/>
+  <rect class="fil12 str6" x="9472" y="2821" width="6144" height="575"/>
   <text x="9584" y="3205"  class="fil7 fnt16">Seleccione una operación</text>
   <text x="9599" y="2719"  class="fil1 fnt17">Operación</text>
   <text x="11035" y="1943"  class="fil4 fnt5">Búsqueda</text>
   <rect id="_P_HOME" class="fil0 str0" x="1859" y="650" width="6873" height="14509"/>
   <g id="_B_RESULTADO_2">
-   <rect class="fil5 str6" x="4213" y="6132" width="3858" height="955" rx="20" ry="20"/>
-   <text x="5309" y="6786"  class="fil1 fnt18">Buscar</text>
+   <rect class="fil5 str7" x="4213" y="6132" width="3858" height="955" rx="20" ry="20"/>
+   <text x="5309" y="6786"  class="fil1 fnt19">Buscar</text>
   </g>
-  <rect class="fil11 str5" x="2223" y="4958" width="6144" height="575"/>
+  <rect class="fil12 str6" x="2223" y="4958" width="6144" height="575"/>
   <text x="2336" y="5342"  class="fil7 fnt16">Seleccione una localidad</text>
   <text x="2333" y="4856"  class="fil1 fnt17">Ubicación</text>
-  <rect class="fil11 str5" x="2223" y="3890" width="6144" height="575"/>
+  <rect class="fil12 str6" x="2223" y="3890" width="6144" height="575"/>
   <text x="2336" y="4273"  class="fil7 fnt16">Seleccione una propiedad</text>
   <text x="2333" y="3788"  class="fil1 fnt17">Tipo de Propiedad</text>
-  <rect class="fil11 str5" x="2223" y="2821" width="6144" height="575"/>
+  <rect class="fil12 str6" x="2223" y="2821" width="6144" height="575"/>
   <text x="2336" y="3205"  class="fil7 fnt16">Seleccione una operación</text>
   <text x="2333" y="2719"  class="fil1 fnt17">Operación</text>
   <text x="3786" y="1943"  class="fil4 fnt5">Búsqueda</text>
+  <rect class="fil12 str6" x="15144" y="4958" width="472" height="575"/>
+  <polygon class="fil7" points="15232,5168 15527,5168 15379,5366 "/>
+  <rect class="fil12 str6" x="15144" y="3890" width="472" height="575"/>
+  <polygon class="fil7" points="15232,4100 15527,4100 15379,4298 "/>
+  <rect class="fil12 str6" x="15144" y="2821" width="472" height="575"/>
+  <polygon class="fil7" points="15232,3031 15527,3031 15379,3229 "/>
+  <rect class="fil12 str6" x="7895" y="4958" width="472" height="575"/>
+  <polygon class="fil7" points="7983,5168 8278,5168 8130,5366 "/>
+  <rect class="fil12 str6" x="7895" y="3890" width="472" height="575"/>
+  <polygon class="fil7" points="7983,4100 8278,4100 8130,4298 "/>
+  <rect class="fil12 str6" x="7895" y="2821" width="472" height="575"/>
+  <polygon class="fil7" points="7983,3031 8278,3031 8130,3229 "/>
  </g>
 </svg>
